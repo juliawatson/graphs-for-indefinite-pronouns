@@ -1,0 +1,463 @@
+sit,L0,L1,L2,L3,L4,L5,L6,L7,L8,L9,L10,L11,L12,L13,L14,L15,L16,L17,L18,L19,L20,L21,L22,L23,L24,L25,L26,L27,L28,L29
+0,أحداً,,tko,kdokoliv,alle,jemand,κάποιος,anybody,propuesto,keegi,joku,quelqu'un,אלמלא מישהו,tko,valaki,orang,qualcun,誰,iemand,,kto,alguém,mi-ar,,omenil kdo,ko,någon,başkası,người,他人
+1,,някой,itko,někdo,nogen,jemand,κάποιος,anybody,alguien,keegi,,quelqu'un,מישהו,itko,valaki,ada,qualcun,書類,iemand,noen,ktoś,alguém,,кто-нибудь,kdo,itko,någon,bir,ai,有人
+2,أحد,,netko,někdo,,bord,,anybody,bajar,keegi,joku,débarquer,מישהו,iskrcati,valaki,ada,qualcun,,aanstaat,noen,ktoś,alguém,coboare,кто-то,kdo,,någon,isteyen,ai,有人
+3,,чуждият,netko,,nogle,jemand,κανένας,someone,alguien,keegi,joku,on,מישהו,netko,valaki,ada orang,qualcun,迫,,noen,ktoś,alguém,cineva,пойдёт,kdo,netko,någon,bir,có ai,有人
+4,شخص,някой,netko,někdo,en,,κάποιος,someone,alguien,keegi,joku,,מישהו,netko,valaki,orang,qualcun,人,iemand,noen,,alguém,cineva,кто-то,nekaj,netko,någon,bir,người,人
+5,شخص,някой,netko,někdo,nogen,jemand,κάποιος,someone,alguien,keegi,,quelqu'un,מישהו,netko,valaki,seseorang,qualcun,,iemand,noen,ktoś,alguém,cineva,кто-то,nekaj,netko,någon,bir,có ai,有人
+6,أحد,някой,netko,,nogen,jemand,κανένας,anyone,alguien,keegi,kukaan,quelqu'un,,netko,valaki,ada,qualcun,,iemand,noen,,alguém,cineva,кто,kdo,itko,någon,,ai,有人
+7,شخص,някой,netko,někdo,,irgendjemand,κάποιος,anyone,alguien,keegi,jollain,quelqu'un,למישהו,itko,bárki,ada,qualcun,人,iemand,noen,ktoś,alguém,cineva,кто-нибудь,kdokoli,netko,någon,olan varsa,ai,何
+8,أى,всеки,tko,kdokoliv,nogen,irgendjemand,οποιονδήποτε,anyone,nadie,kes tahes,kukaan,tout,,itko,,siapapun,chiunque,,,noen,,ninguém,oricine,кто-либо,vse,itko,någon,herkesten,bất kỳ người,何 人
+9,شخص,всеки,itko,,nogen,irgend,οποιοσδήποτε,anyone,nadie,keegi,kukaan,quiconque,אחד,itko,bárki,orang,nessuno,,iemand,noen,ktokolwiek,qualquer,altcineva,,kdokoli,itko,någon,kimse,bất kỳ ai,何 人
+10,أحد,никой,nitko,nikdo,alle,,κανένας,anybody,,keegi,kukaan,d'oublier personne,אף אחד,nitko,senki,siapa,nessuno,誰,niemand,etterlatt,pozostawić nikt,ninguém,nimeni,велели никто,nič,nitko,alla,,ai,下任 何
+11,,отишъл,netko,nešel,,keine,κανένας,anybody,nadie,keegi,kukaan,qu'avec,אף אחד,z,harcolnék,orang,,,iemand,noen,nikt,ninguém,nimeni,,nič,ko,någon,kimse,ai,想和别
+12,أحد,никой,nitko,nikdo,nogen,niemand,κανένας,anybody,nadie,keegi,kukaan,personne,אחד,nitko,ártok,siapapun,mosca,誰,,ingen,nikt,ninguém,nimeni,никто,nič,nitko,,kimse,ai,任 何
+13,أحداً,никой,nitko,nikdo,nogen,niemand,κανένας,anybody,nadie,keegi,kukaan,personne,אף אחד,nitko,senki,siapapun,nessuno,誰,niemand,noen,nikt,ninguém,nimeni,кто,nič,nitko,någon,kimse,ai cả,何
+14,أحد,някой,netko,,nogen,niemand,κάποιος,anyone,nadie,keegi,kukaan,seul,מישהו,netko,senki,seseorang,nessuno,,iemand,noen,nikt,ninguém,nimeni,никто,nič,netko,någon,bir,ai,和任 何 人
+15,أحد,никой,nitko,nikdo,nogen,nichts,κανένας,anyone,nadie,keegi,kukaan,personne,אף אחד,nitko,senki,siapapun,nessuno,誰 も,niemand,ingen,nikt,ninguém,nimeni,никто,nič,nitko,ingen,kimse,ai,и⊿ヴ 
+16,أى,всеки,svatko,někdo,enhver,jeder,,anyone,cualquier,igaüks,kuka,monde,כל אחד,svatko,aki,orang,,も,iedereen,helst,każdy,qualquer,oricine,каждому,vsak,sva,helst,herkese,ai,人人
+17,لأحد,никой,nitko,nikdo,,niemand,κανένας,anyone,nadie,keegi,kukaan,personne,לאף אחד,nitko,senki,siapa pun,nessuno,,niemand,noen,nikt,ninguém,nimeni,никто,nič,nitko,,kimse,ai,任 何 人
+18,أى,,,nikdo,nogen,niemand,κανένας,anyone,nadie,keegi,kukaan,personne,אף אחד,nitko,senki,siapapun,nessuno,誰 も,niemand,,nikt,ninguém,acestea,никто,nič,nitko,ingen,kimse,ai,人
+19,,никой,,,nogen,niemand,κανένας,anyone,nadie,keegi,kukaan,personne,אף אחד,nitko,senki,siapapun,nessuno,誰 も,niemand,noen,nikt,ninguém,nimeni,,,nitko,någon,kimse,ai,任 何 人
+20,أحد,някой,netko,někdo,nogen,jemand,κάποιος,someone,alguien,keegi,joku,quelqu'un,,netko,valaki,seseorang,qualcun,,,noen,ktoś,alguém,cineva,кто-нибудь,kdo,netko,någon,bir,ai,人去
+21,شخص,,nitko,nikdo,,,κανένας,anyone,nadie,keegi,kukaan,personne,מישהו,netko,senki,orang,nessuno,誰 も,niemand,flere,nikt,ninguém,nimeni,кто-то,nič,nitko,någon,bir,ai,
+22,أحداً,никой,nitko,nikdo,nogen,niemand,κανένας,anyone,nadie,keegi,kukaan,personne,תתנה לאף אחד,nitko,,siapapun,nessuno,誰 も,niemand,noen,,ninguém,nimeni,никто,nič,nitko,någon,,ai,
+23,يتحركن,никой,nic,,ingen,keine,,nobody,nadie,keegi,jokainen,personne,,nitko,senki,jangan ada,nessuno,身動き,niemand,ingen,,ninguém,nimeni,никто,nihče,nitko,ingen,kimse kımıldamasın,quậy,谁也
+24,أحد,няма,nitko,,ingen,niemand,κανένας,nobody,nadie,keegi,kukaan,,אף,nitko,senki,ada,nessuno,誰,niemand,ingen,nikt,ninguém,nimeni,никто,nihče,nitko,ingen,kimse,ai,没
+25,أحد,никой,nitko,nikdo,,keine,,nobody,nadie,olge,kukaan,personne,,nitko,mozduljanak,jangan ada,nessuno,動,,ingen,nikt,ninguém,nimeni,не,ganite,nitko,ingen,kimse kımıldamasın,ai,
+26,أحد,никой,nitko,,,keine,κανένας,nobody,nadie,,kukaan,personne,איש,nitko,alattam,tak ada,nessuno,誰,niemand,ingen,zdałem,ninguém,nimeni,никто,nihče ni,nitko,ingen,kimse,ai,夜空 没
+27,أحد,никой,nitko,neodletí,ingen,keine,κανένας,nobody,nadie,keegi,kukaan,décollage,אף,nitko,,ada,nessuno,誰,niemand,ingen,,ninguém,nimeni,никто,nihče,nitko,ingen,,ai,
+28,احد,никой,nitko,nezbyl,ingen,niemand,κανένας,nobody,nadie,keegi,kukaan,personne,אף,nitko,senki,tak ada,nessuno,しか,niemand,ingen,nikt,ninguém,nimeni,никто,,nitko,ingen,verdiğim kimsem,ai,有其
+29,أحد,никой,nitko,nikdo,ingen,niemand,κανένας,nobody,nadie,keegi,kukaan,personne,אף אחד,nitko,senki,tak ada,nessuno,誰,niemand,,nikt,ninguém,nimeni,никто,nihče,ide,,kimse,ai,没 有人
+30,أحد,,nitko,nikdo,ingen,keine,κανένας,nobody,nadie,keegi,ei,personne,אף,nitko,senki,,nessuno,,niemand,ingen,nikt,ninguém,nimeni,никто,,nitko,ingen,kimse,,沒 有人
+31,أحد,никой,pomjerajte,nehne,bliver,keine,κουνηθεί,nobody,,keegi,kukaan,personne,אף,nitko,,,nessuno,誰,beweeg,ingen,ruszać,ninguém,nimeni,никто,ganite,nitko,ingen,kimse kımıldamasın,ai,许动
+32,فلم,никой,nitko,nikdo,ingen,keine,κανένας,nobody,nadie,keegi,kukaan,nul,איש,nitko,senki,tak seorangpun,nessuno,誰,niemand,ingen,nikt,ninguém,nimeni,никто,nihče,nitko,ingen,kimse,ai,没 有人
+33,أحد,никой,nitko,nikdo,ingen,keine,κανένας,nobody,nadie,keegi,kukaan,personne,ידע,nitko,senki,tak ada,nessuno,誰,niemand,ingen,nikt,ninguém,nimeni,никто,nihče ni,nitko,ingen,kimse,ai,但沒 有人
+34,,никой,nitko,,ingen,niemand,κανένας,nobody,nadie,keegi,kukaan,personne,שאיש,nitko,senki,,nessuno,誰,niemand,ingen,nikt,ninguém,nimeni,никто,,nitko,ingen,kimse,ai,
+35,أحد,никой,nitko,nikdo,ingen,keine,κανένας,nobody,nadie,keegi,kukaan,personne,אף,nitko,senki,tak seorangpun,nessuno,ひとり,niemand,ingen,nikt,ninguém,nimeni,никто,nihče,nitko,ingen,kimse,,
+36,أحد,никой,uđe,nemohl,ingen,,κανένας,nobody,nadie,keegi,kukaan,nul,,nitko,senki,ada,nessuno,,niemand kon,ingen,nikt,ninguém,nimeni,никто,nihče,nitko,ingen,kimse,ai,走廊
+37,أحد,,nitko,,ingen,niemand,κανένας,nobody,nadie,keegi,kukaan,personne,אף,nitko,senki,tak,nessuno,誰,niemand,,nikt,ninguém,nimeni,никто,ni,nitko,,kimse,ai,没人
+38,أحد,никой,nitko,,ingen,bloß,κανένας,nobody,nadie,keegi,kukaan,qu'aucun,.שאף,nitko,,tak ada,nessuno,誰,niemand,ingen,nikt,ninguém,nimeni,никто,ni nihče,nitko,,,,有人
+39,أحد,няма,nitko,nikdo,ingen,keine,κανένας,nobody,nadie,keegi,kukaan,bobo,אף,nitko,senki,ada,nessuno,,niemand,ingen,nikt,ninguém,nimeni,остаются,,nitko,ingen,kimse,ai,沒 有人
+40,,никой,nitko,nikdo,rør,keine,ακίνητοι,nobody,nadie,jääge,aloillanne,personne,,mičite,mozduljanak,jangan,nessuno,動,beweging,,ruszać,ninguém,nimeni,не,ganite,nitko,ingen,kimse kımıldamasın,ai,大家
+41,شخص,някой,netko,,,jemand,κάποιος,someone,alguien,keegi,eräs,quelqu'un,מישהו,netko,valaki,seseorang,persona,者,iemand,en,ktoś,alguém,cineva,человек,nekaj,netko,någon,bir,người,個人
+42,,никой,nitko,,nogen,niemand,κανένας,nobody,nadie,keegi,kukaan,personne,אף,nitko,senki,asing,nessuno,誰,niemand,ingen,nikt,ninguém,nimeni,никто,nihče,nitko,ingen,kimse,ai,路人
+43,أحد,всеки,svatko,kdokoliv,alle,jeder,οποιοδήποτε,anybody,cualquier,kes,kaikille,n'importe,לאף אחד,svatko,bárki mással,siapa pun,chiunque,遭わ,iedereen,alle,każdy,qualquer,oricui,любой,komur koli,ko,helst,yapardık,,样做
+44,أى,всеки,svatko,terčem,alle,,καθένας,anyone,cualquier,igaüks,maalin,,כל אחד,svatko,bárki,siapapun,chiunque,誰,wie,,każdy,qualquer,oricine,любой,vsak,sva,,herhangi,ai,谁都
+45,أى,всеки,tko,spatřen,nogen,,όποιος,anyone,cualquier,kes,liikkuvat,quiconque,כל מי שימצא,svatko tko,aki,siapapun,chiunque,者,iedereen,noen,kto,alguém,,любой вышедший,kdokoli,izachi,någon,,ai,任 何 人
+46,,всеки,svatko,,,jeder,οποιονδήποτε,anyone,cualquier,kes,,ceux,כל,svatko,mindenkit,pun,chiunque,誰,iedereen,alle,każdy,quem quer,oricine,всё,vsakdo,sva,alla,herkesi,bất,人
+47,سكان,някой,tko,kdokoliv,nogen,leute,άλλαζαν,anyone,nadie,keegi,kukaan,quiconque,‫שמישהו,,bárki,warga,abitanti,変わ,iemand,noen,ktokolwiek,alguém,cineva,хоть кто-то,kdokoli,ko,någon,keza,,
+48,أحد,всеки,tko,kdokoliv,helst,antun,οποιοδήποτε,anyone,cualquier,kes,kuka,n'importe qui,לאף אחד,napravili,megtennétek,siapapun..,chiunque,同じ,wie,helst,każdy,qualquer,oricui,,,ko,helst,herkese yaparsiniz,bất kỳ ai,任 何 人
+49,أى,всеки,svatko,,enhver,jeder,οποιονδήποτε,anyone,quien,kes,jos joku,ceux,כל,tko,bárki,siapapun,chiunque,者,iedereen,alle,każdy,quem,oricine,кто,vsakdo,sva,alla,herkesi,ai,何
+50,شخص,всеки,svatko,,enhver,jeder,οποιοσδήποτε,anyone,,kes,,quiconque,מישהו,bilo,valaki,siapa pun,chiunque,誰,iedereen,alle,,qualquer,oricine,любой,kdokoli,sva,någon,herkes,,任 何
+51,أكُن,някой,uopšte,někdo,der,übriggeblieben,κανένας,anybody,quedaba gente,keegi,ainuttakaan,,מישהו,itko,maradtak-e,ada seseorang,fossero,居,iemand,eksisterte,ktoś,alguém,cineva,вообще кто-нибудь,kdo,netko,någon,midir,ai,有其 他人
+52,أحداً,никой,,,nogen,niemand,κανένας,anyone,nadie,keegi,kukaan,personne,אף אחד,nitko,senki,siapa pun,nessuno,,niemand,noen,nikt,ninguém,nimeni,никто,,nitko,någon,kimse,ai,
+53,أى,никой,nitko,někdo,,niemand,κανένας,anyone,nadie,keegi,kukaan,qui,אחד,nitko,bárki,siapapun,nessuno,も,niemand,noen,nikt,alguém,cineva,кто-то,nič,nitko,någon,kimse,ai,
+54,أحد,никой,itko,volal,nogen,irgendwer,κανένας,anyone,nadie,keegi,kukaan,personne,לאף אחד,itko,bárki,siapapun,nessuno,誰 も,niemand,noen,nikt,ninguém,nimeni,никто,kdokoli,itko,någon,kimse,ai,任 何 人
+55,شخص,някой,netko,,en,einer,κάποιος,someone,alguien,keegi,toista,quelqu'un,למישהי,netko,,seseorang,qualcun,勝ち取れ,iemand,,ktoś,alguém,cineva,,izsiliti,netko,,bir,người,
+56,أحداً,някой,,,nogen,jemand,κάποιος,anyone,alguien,keegi,kukaan muu,quelqu'un,שאי,nitko,aki,ada orang,qualcun,信じ,iemand,noen,nikt,alguém,cineva,кто-то сможет,kdo,itko,ingen,kimse anlayabileceğini,người,戳辨
+57,ليساعدني,някой,,,,,κάποιος,somebody,echenme,keegi,auttakaa,d'aide,.שמישהו,netko,valaki,seseorang,qualcun,誰 か,iemand,noen,,alguém,ajute cineva,кто-нибудь,nekaj,netko,någon,bir,ai,我找
+58,شخص,някой,netko,někdo,en,jemand,κάποιος,somebody,alguien,keegi,,qu'on,מישהו,netko,valaki,seseorang,qualcun,人,iemand,noen,ktoś,alguém,cineva,кто,,netko,någon,bir,ai,
+59,أحدكم,,zovite,někdo,,brauchen,κάποιος,somebody,se,helistage,soittakaa,,מישהו,zovite,hívják,seseorang,chiamare,か,bel,noen,wezwijcie,alguém,cineva,вызовите,pokličite,zovite,någon,bir,,找人
+60,اقتلوه،,някой,netko,,,,κάποιος,somebody,alguien,keegi,joku,quelqu'un,שמישהו,netko,valaki,siapapun,qualcun,誰 か,iemand,annen,,none,cineva,кто-нибудь,,netko,någon,bir,bay,谁来
+61,لرجل,някой,netko,někdo,en,jemand,έναν,somebody,alguien,keegi,joku,type,מישהו,netko,erősebb,orang,qualcun,タフ,,en,ktoś,alguém,om,крепкий,močnega,netko,någon,bir,người khoẻ,強壯
+62,,някой,netko,,en,jemand,κάποιος,someone,alguien,keegi,joku,quelqu'un,מישהו,netko,valaki,seseorang,qualcun,熟知,iemand,noen,ktoś,alguém,cineva,то,nekaj,netko,någon,bir,ai,捉她
+63,شخص,някой,netko,,nogen,irgendjemand,κάποιος,someone,alguien,keegi,joku,quelqu'un,מישהו,netko,valaki,seseorang,qualcun,誰,iemand,noen,ktoś,alguém,cineva,кто-то,nekaj,netko,någon,bir,ai,有人
+64,أهلاً,някой,netko,někdo,nogen,anderen,κάποιος,someone,alguien,keegi,joku,quelqu'un,מישהו,netko,valaki,orang,qualcun,,ander,noen,ktoś,alguém,cineva,желающих,nekaj,netko,någon,bir,ai,别
+65,شخص,,netko,někdo,en,jemand,κάποιος,someone,,keegi,joku,quelqu'un,מישהו,netko,,ada,qualcun,者,ander,noen,ktoś,alguém,altcineva,кто-то,nekaj,netko,någon,bir,có người,别
+66,شخص,някой,netko,někdo,nogen,jemand,κάποιος,someone,alguien,,,,מישהו,netko,valaki,seseorang,qualcun,,iemand,noen,ktoś,alguém,cineva,,nekaj,netko,någon,bir,người,个
+67,شخص,някой,netko,někdo,en,jemand,κάποιος,someone,alguien,keegi,löytää,quelqu'un,,netko,,seseorang,persona,,iemand,som,ktoś,alguém,cineva,приятным,nekaj,netko,någon,çıkmam,ai,
+68,شخص,някой,netko,někdo,,jemand,κάποιος,someone,alguien,keegi,ekana,,מישהו,netko,valaki,ada,qualcun,誰,,,ktoś,alguém,cineva,кто-то,nekaj,netko,någon,bir,người,总得
+69,,някой,netko,,,jemand,κάποιος,someone,alguien,keegi,joku,on,מישהו,netko,valaki,ada,qualcun,,iemand,noen,ktoś,alguém,cineva,кто-то,nekaj,netko,någon,bir,có người,有人
+70,,някой,netko,někdo,en,einer,,someone,alguien,keegi,joku,quelqu'un,יחול,netko,valaki,melamar,qualcun,誰,iemand,en,,pessoa,altul,кто-нибудь,,netko,någon,evlenme,ai,
+71,شخص,човек,netko,,nogen,jemand,κάποιος,someone,alguien,keegi,joku,quelqu'un,מישהו,netko,valaki,orang,qualcun,,iemand,noen,ktoś,alguém,cineva,спущусь,nekaj,netko,någon,bir,có người,有人
+72,شخص,някой,netko,někdo,nogen,jemand,κάποιος,someone,,keegi,joku,quelqu'un,למישהו,netko,,orang,qualcun,誰,iemand,noen,ktoś,,altcineva,,komu,netko,någon,,người,人去
+73,أحدكم,някой,netko,,nogen,jemand,κάποιος,someone,alguien,keegi,joku,quelqu'un,מישהו,netko,valaki,seseorang,qualcun,誰,iemand,noen,ktoś,alguém,cineva,кто-то,nekaj,netko,någon,bir,ai,总得 有人
+74,أحد,някой,netko,někdo,nogen,,κάποιος,someone,alguien,keegi,,,מישהו,netko,valaki,seseorang,qualcun,誰,iemand,noen,ktoś,alguém,,кто-то,nekaj,netko,någon,,có người,個人
+75,أحد,някой,netko,někdo,,jemand,κάποιος,someone,alguien,keegi,,quelqu'un,למישהו,netko,valaki,orang,qualcun,相手,ander,,ktoś,pessoa,altcineva,кто-то,kdo,netko,någon,bir,ai,
+76,,някой,netko,někdo,nogen,jemand,,someone,alguien,keegi,joku,quelqu'un,מישהו,netko,valaki,seseorang,qualcun,人,iemand,noen,ktoś,alguém,careva,кто-то,kdo,netko,någon,bir,ai,个 人
+77,شخص,някой,netko,,en,jemand,κάποιος,someone,alguien,keegi,joku,quelqu'un,מישהו,netko,aki,seseorang,qualcun,,iemand,,,alguém,cineva,человек,nekaj,netko,någon,bir,người,
+78,,някой,netko,někdo,nogen,irgendjemand,κάποιος,somebody,alguien,keegi,joku,quelqu'un,מישהו,netko,valakinek vigyáznia,ada,qualcun,か,iemand,noen,ktoś,alguém,cineva,кто-то,nekdo,netko,någon,bir,,总得 有人
+79,أحد,някой,netko,někdo,nogen,,κάποιος,someone,alguien,keegi,joku,quelqu'un,מישהו,netko,valaki,seseorang,qualcun,誰,,noen,ktoś,alguém,cineva,,kdo,netko,någon,bir,ai,
+80,لديه,някой,netko,někdo,en,jemand,,someone,alguien,keegi,joku,quelqu'un,מישהו,netko,valaki,orang,qualcun,誰,iemand,noen,ktoś,alguém,cineva,кто-то,kdo,netko,,bir,người,派人
+81,لشخص,някой,netko,,,jemand,κάποιος,someone,alguien,keegi,joku,quelqu'un,מישהו,netko,,seseorang,qualcun,者,iemand,en som,ktoś,alguém,,человек,nekaj,netko,någon,bir,người,个
+82,أيريد,някой,netko,někdo,der,,κάποιος,anybody,alguien,keegi,haluaako joku,quelqu'un,מישהו,,valaki,ada,qualcun,,iemand,noen,któryś,alguém,cineva,кто-нибудь,kdo,netko,någon,isteyen,ai,有人
+83,,някой,itko,,nogen,jemand,κανένας,anybody,viste,,kukaan,personne,הנה,itko,senki se,ada orang,qualcun,だい,gedragen,noen,ktoś,viu,cineva,никто,kdo,netko,någon,bir,ai,有觉
+84,,някой,tko,,nogen,jemand,,anybody,alguien,keegi,kuka,quelqu'un,מישהו,itko,bárki,siapapun,qualcun,誰,niemand,noen,kto,alguém,cineva,кто-то,koli,itko,någon,bir,,有人
+85,أحد,,itko,slyší,nogen,,κανένας,anybody,alguien,keegi,kuuleeko kukaan,,‫מישהו,itko,valaki,ada,,,iemand,noen,powtarzam,alguém,aude cineva,кто-нибудь,kdo,čuje,någon,duyan,ai,有人
+86,أحد,някой,netko,,,jemand,κανένας,anybody,alguien,keegi,näkikö kukaan,sait,מישהו,netko,bárki,seseorang,qualcun,殺し,iemand,noen,ktoś,alguém,cineva,кто-нибудь,kdo,netko,någon,gören,ai,有人
+87,كان؟,някой,itko,někdo,nogen,irgendjemand,κανένας,anybody,,ükskõik,,n'importe,מישהו,,bárki,siapapun,nessuno,,iemand,helst,kto,alguém,recepţionează cineva,кто-то,kdokoli,itko,helst,duyan,ai,
+88,شخص,някой,netko,,nogen,jemand,κανένας,anyone,alguno,keegi,onko kukaan,quelqu'un,מישהו,netko,,ada,qualcun,誰 も,iemand,noen,ktoś,alguém,cineva,кто-нибудь,kdo,netko,någon,aranızda,-có ai,有谁
+89,,,itko,všichni,nogen,jemand,κανένας,anyone,alguien,keegi,kukaan,,מישהו,itko,,ada,qualcun,者,iemand,noen,ktoś,algum,cineva,никто,kdo,itko,,kimse,ai,有人
+90,,някой,netko,chcete,nogen,jemand,κάποιος,anyone,alguien,keegi,loppumme,quelqu'un,כל אחד,,valaki,,avete,誰,iemand,noen,ktoś,alguém,aveţi,кто-нибудь,kdo,zheli,någon,şey,ai,谁有
+91,,някой,itko,někdo,nogen,irgendjemand,κανένας,anyone,alguien,,kukaan,quelqu'un,מישהו,tko,valaki,ada,qualcun,誰,iemand,noen,ktoś,alguém,cineva,,kdo vidi,itko,någon,teması olan,,有人
+92,أحد,някой,itko,někdo,,jemand,κανένας,anyone,alguien,keegi,kukaan,quelqu'un,מישהו,itko,valaki,ada,qualcun,誰,iemand,,ktoś,alguém,cineva,кто-нибудь,kdokoli,netko,,,ai,有人
+93,لشخص,някой,netko,někdo,nogen,jemand,κάποιος,anyone,alguien,,kukaan,quelqu'un,מישהו,netko,valaki,orang,qualcun,,iemand,noen,,alguém,cineva,,kdo,itko,någon,bir,người,有人
+94,أى,някой,itko,někdo,nogen,irgend,κανένας,anyone,alguien,keegi,kukaan,quelqu'un,מישהו,itko,valaki,orang,nessuno,誰,iemand,noen,kto,alguém,cineva,кто,kdo,itko,någon,kimse,ai,有人 在吗
+95,أحد,някой,itko,někdo,nogen,jemand,κανένας,anyone,alguien,keegi,joku,quelqu'un,כל מי,itko,aki,ada,qualcun,,iemand,noen,ktoś,alguém,cineva,никто,kdo,itko,någon,isteyen,ai,有人
+96,أحد,някой,netko,,nogen,jemand,κάποιος,someone,alguien,keegi,joku,quelqu'un,מישהו,netko,valaki,ada,qualcun,誰,iemand,noen,ktoś,alguém,cineva,,kdo,netko,någon,bir,ai,有谁
+97,أحد,нещо,netko,někdo,nogen,jemand,κανένας,anybody,alguien,keegi,kukaan,quelqu'un,מישהו,ko,valaki,ada orang,qualcun,誰,iemand,noen,ktoś,alguém,cineva,кто-нибудь,kdo,ko,någon,kimse,ai,有人
+98,,,tko,,nogen,jemand,λαμβάνει,anyone,alguien,keegi,joku,quelqu'un,מישהו,bilo tko,valaki,ada,nessuno,誰,iemand,helst,kto,alguém,cineva,кто-нибудь,kdokoli,bilo ko,någon,,,有人
+99,أحد,никой,nitko,,ingen,niemand,κανένας,anyone,nadie,keegi,kukaan,personne,אחד .לאף אחד,nitko,senki,seorangpun,nessuno,,niemand,ingen,nikt,ninguém,nimeni,никто,nič,nitko,ingen,hickimseye,ai,
+100,أحد,някой,tko,někdo,nogen,leute,κανένας,anyone,alguien,keegi,kukaan,quelqu'un,מישהו,itko,bárki,seseorang,nessuno,誰,iemand,noen,ktoś,alguém,cineva,кто-нибудь,kdo,itko,någon,herhangi,ai,
+101,لشخص,някой,netko,někdo,,jemand,στείλεις,somebody,alguien,,,quelqu'un,למישהי,netko,valaki számára,seseorang,qualcun,ＴＶ,iemand,noen,osobie,alguém,cineva,,nekaj,netko,person,,người,某 人说
+102,شخص,чoвeк,netko,neotevřeli,nogen,jemand,κάποιος,somebody,alguien,keegi,joku,quelqu'un,מישהו,netko,valaki,orang,qualcun,人,iemand,noen,zajęty,alguém,cineva,кто-то,nekaj,netko,,bir,người,有人
+103,امرؤ,някой,netko,,en,jemand,κάποιος,somebody,alguien,keegi,palvelusta eräältä,quelqu'un,ממישהו,netko,,seseorang,qualcun,,iemand,noen,ktoś,pessoa,cuiva,кто-кого,nekdo,netko,någon,,người,
+104,شخص,,netko,někdo,skimte,jemand,διακρίνω,somebody,alguien,keegi,joku,sentir,מישהו,netko,valaki,ada seseorang,qualcun,誰 か,,noe,ktoś,alguém,cineva,кто-то,nekaj,netko,någon,,ai,有人
+105,شخص,някой,netko,někdo,nogen,kinderbuch,κάποιος,somebody,alguien,keegi,joku,m'a,מישהו,netko,valaki,seseorang,qualcun,送りつけ,,noen,ktoś,alguém,cineva,кто-то,nekaj,netko,någon,bir,có ai,有人
+106,شخص,някой,netko,někdo,en,jemand,κάποιος,someone,alguien,keegi,joku,quelqu'un,מישהו,netko,valaki,seseorang,qualcun,人,iemand,noen,ktoś,alguém,cineva,,nekaj,netko,någon,bir,người,有人
+107,أحد,някой,netko,,nogen,jemand,κάποιος,someone,alguien,keegi,joku,quelqu'un,מישהו,netko,valaki,seseorang,calarsi,誰,iemand,noen,ktoś,alguém,cineva,кто-то,,netko,någon,bir,người,有人
+108,لشخص,някой,netko,někdo,en,jemand,κάποιος,someone,alguien,tüübiga,joku,quelqu'un,מישהו,netko,valaki,seseorang,qualcun,誰,iemand,noen,ktoś,alguém,cineva,кто-то,,netko,någon,konuşuyordu,ai,某 人
+109,,някой,netko,někdo,nogen,jemand,κάποιος,someone,alguien,keegi,joku,quelqu'un,,netko,valaki,orang,qualcun,誰,iemand,noen,ktoś,alguém,cineva,то-то,nekaj,netko,någon,,ai,
+110,احد,някой,netko,někdo,der,jemand,κάποιος,someone,alguien,keegi,joku,,מישהו,netko,valaki,ada orang,qualcun,誰,iemand,noen,ktoś,sozinhos,cineva,кто-то,nekaj,netko,någon,bir,người,有人
+111,,някой,netko,,en,jemand,κάποιος,someone,alguien,keegi,joku,quelqu'un,מישהו,netko,valaki,seseorang,qualcun,誰,iemand,noen,ktoś,alguém,altcineva,кто-то,nekaj,netko,,,người,人吗
+112,أحدكم,някой,netko,někdo,en,,κάποιος,someone,alguien,ühele,eräs,quelqu'un,מישהו,osobi,valaki,orang,qualcun,人,iemand,noen,ktoś,pessoa,cuiva,,,netko,någon,bir,người,
+113,شخص,човек,netko,někdo,nogen,jemand,κάποιος,someone,alguien,keegi,eräs,quelqu'un,מישהו,netko,keressen,seseorang,persona,人,iemand,noen,ktoś,pessoa,cineva,человек,nekaj,netko,någon,bir bulmanı,,个
+114,,,netko,někdo,en,jemand,κάποιος,someone,alguien,keegi,joku,on,,netko,valaki,ada,qualcun,,iemand,noen,ktoś,alguém,cineva,кто-то,nekaj,netko,någon,,có người,有人
+115,شخص,някой,netko,,nogen,jemand,κάποιος,someone,alguien,keegi,joku,quelqu'un,משהו,netko,,ada,qualcun,誰,iemand,noen,sprawą,alguém,cineva,кто-то,nekaj,netko,någon,bir,ai,有人
+116,أحدكم,някой,netko,někdo,nogen,jemand,,somebody,alguien,jama,joku,quelqu'un,מישהו,netko,valaki,seseorang,qualcun,誰 か,iemand,noen,ktoś,alguém,cineva,кто-то,nekaj,netko,någon,bir,có ai,
+117,شخص,някой,netko,někdo,nogen,jemand,κάπως,someone,alguien,keegi,joku,quelqu'un,מישהו,netko,valaki,seseorang,qualcun,,iemand,noen,ktoś,alguém,cineva,кто-то,nekaj,netko,någon,bir,ai,有人
+118,أحداً,,netko,někdo,en,jemand,κάποιος,someone,alguien,,joku toista,quelqu'un,למישהו,netko,,orang,qualcun,誰,iemand,en,ktoś,pessoa,altcineva,кто-то,nekaj,,någon,bir,ai,人
+119,أحدكم,някой,netko,někdo,nogen,,κάποιος,someone,alguien,keegi,,quelqu'un,,netko,valaki,seseorang,qualcun,誰,iemand,noen,ktoś,alguém,cineva,кто-нибудь,kdo,netko,någon,bir,ai,人
+120,شخص,човек,netko,někdo,en,jemand,κάποιος,someone,alguien,keegi,joku,quelqu'un,מישהו,netko,valójában,seseorang,qualcun,人,iemand,noen,,alguém,altcineva,кто,nekaj,netko,någon,bir,kẻ,人
+121,شخص,някой,netko,někdo,nogen,brauche,κάποιος,someone,,keegi,joku,quelqu'un,מישהו,netko,valaki,orang,qualcun,奴,iemand,noen,ktoś,alguém,cineva,человек,kdo,netko,någon,bir,ai,
+122,شخص,някой,ono,,en,jemand,κάποιου,someone,alguien,keegi,,quelqu'un,מישהו,ko,aki,seseorang,qualcun,誰,iemand,noen,ktoś,alguém,cuiva,то,nekaj,netko,någon,bir,,人
+123,أحد,човек,netko,pána,nogen,jemand,κάποιος,someone,alguien,keegi,,quelqu'un,מישהו,netko,valaki,seseorang,qualcun,誰,iemand,noen,ktoś,alguém,cineva,кто-то,nekomu,netko,någon,bir,ai,一起来
+124,وآخذه,ден,jednog,jednoho,dag,tages,θα΄ρθω,someday,algún,ühel päeval,jonakin,jour,.יום,jednog,nap érte,suatu,,,eens,dag,kiedyś,dia,într-o zi,однажды,nekega dne,једног,dag,gün almaya gelirim,ngày,有一 天
+125,سأعيش,ден,jednog,jednou,skønne,tages,μέρα,someday,,ükspäev,jonain,jour,מן הימים,jednog,napon,suatu,giorno,,eens,dag,,dia,,когда-нибудь,nekoč,jednog dana,vacker dag,gün,ngày,有一 天
+126,يؤذيهم,,,nějaký,skader,verbirgst,κάπως,somehow,alguna,varjad,salaisuudestasi,caches,איכשהו,naškodi,bántódásuk,entah,danneggia,,verbergt,skader,ucierpią przez,magoar,ii,,ogrozi,повреди,skadar,,tổn,隐瞒
+127,زهاء,някак,nekako,,tanken,irgendwie,κάπως,somehow,alguna,suutäie,suupalasta,façon,איכשהו,okusiš,fizetned,,qualche modo,料金,hap,pris,,algo,cumva,заплатить,nekako,,tugga,,bất,要付
+128,,помисли,,nějaký,troede,dachte,τρόπο,somehow,alguna,millegipärast,osasi,sorte,ואיכשהו,,valahogy,entah,,こなし,bewerkstelligen,fantasi,przez,dava-lhe,îmbrace,почему-то вбил,smehljati,osmehuje,därför,şekilde,diện,不知
+129,يُبطئني,помислил,razloga,nějakého,,,τρόπο,somehow,alguna,millegipärast,jostakin,freinera,,razloga,valamiért,melambatku,alcun,平気,tegenhouden,,,acaso,încetini,почему-то,nekako,razloga,vis,nedense,cản bước,阻碍
+130,,нещо,nešto,,noget,was,κάτι,anything,algo,miski,,quelque chose,משהו,išta,bármi,sesuatu,qualcosa,何,iets,noe,coś,algo,ceva,что-то,kaj,nešto,någon,şey,,你发
+131,,нещо,nešto,,,was,κάτι,something,algo,,jokin,quelque chose,משהו,nešto,valami,sesuatu,una cosa,もの,iets,noe,coś,algum coisa,ceva,что-то,nekaj,nešto,nått,bir şey,thứ gì đó,
+132,أى,нещо,nešto,požádá,noget,,κάτι,anything,algo,miski,mikään,tout,משהו,nešto,valami,sesuatu,qualcosa,たり,iets,noe,coś,algo,ceva,что-нибудь,kaj,nešto,någon,şey,làm gì,有所 企图
+133,شيء,нещо,nešto,něco,,etwas,κάτι,anything,algo,miski,jokin,chose,משהו,nešto,valami,sesuatu,serva,,,noe,coś,algum coisa,ceva,что-то,kaj,nešto,någon,şey,gì,要帮忙
+134,أى,нещо,nešto,něco,noget,irgendetwas,κάτι,anything,algo,,jokin,quelque chose,משהו,nešto,bármi,hal,qualcosa,こと,iets,noe,cokolwiek,algo,,что-нибудь,kaj,nešto,någon,,điều gì,有什 么
+135,شيء ما,нещо,nešto,,noget,was,κάτι,anything,algo,miski vajama,jokin,,למשהו,nešto,bármi,sesuatu,qualcosa,何,,noe,coś,algo,ceva,что-то,kaj,nešto,någon,,gì cứ nói,
+136,,нещо,,něco,noget,irgendwas,τίποτα,anything,algo,miski,jokin,truc,משהו,što,valami,sesuatu,qualcosa,何,hebt,noe,coś,algum coisa,ceva,что-то,kaj,nešto,någon,şey,gì,什 么
+137,مكروه,нещо,nešto,něco,noget,etwas,κάτι,anything,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,,何,iets,noe,cokolwiek,algum coisa,ceva,что-то,kaj,nešto,någon,şey,gì,要是
+138,شيء,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,chose,משהו,nešto,valami,makhluk,,か,iets,noe,coś,coisa,altceva,кто-то,kdo,nešto,någon,şey,thứ gì,东西
+139,,нещо,nešto,něco,noget,etwas,,anything,cualquier,miski,ilmoita,quelque chose,משהו,što,bármi,ada,qualcosa,何,iets,noe,coś,algum coisa,ceva,что-то,kaj zgodi,nešto,någon,,chuyện gì,找我
+140,شيء,всичко,sve,,alt,alles,οτιδήποτε,anything,nada,miski,,tout,הכי,sve,mindennél,apa pun,niente,も,,noe,wszystko,qualquer coisa,orice,всё,vse,sve,,şey,bất cứ thứ gì,
+141,أى,нищо,ništa,,noget,,τίποτα,anything,nada,miski,mikään,rien,שום דבר,ništa,semmi,apapun,niente,何 も,nergens iets,noe,nic,nada,nimic,ничто,,ništa,ingen,şey,gì,
+142,شيء,нещо,nešto,,noget,was,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,,か,iets,noe,coś,algo,ceva,что-нибудь,kaj,nešto,någon,şey,gì,点 什
+143,شيء,нещо,nešto,,noget,,κάτι,anything,nada,miski,,rien,דבר,ništa,ilyet,,nulla,もの,zoiets,noe,oglądaliśmy,nada,ceva,ничто,kaj,ništa,någon,şey,,从来没见
+144,شيء ما,нищо,ništa,,noget,nichts,τίποτα,anything,nada,miski,mikään,rien,כלום,ništa,semmi,apa-apa,niente,何 も,niks,ingenting,nic,nada,nimic,ничто,nič,ništa,ingenting,şey,gì,都
+145,شيء ما,,,malé,ingenting,nichts,τίποτα,anything,nada,miski,mikään,ignare,כלום,ništa,ennyit,apa-apa,dirti tutto,何 も,helemaal niets,ingenting,ogóle,nada,nimic,ничто,nič,pojma,ingenting,şey,gì,
+146,شيء ما,нищо,ništa,nedělala,intet,nichts,τίποτα,anything,nada,miski,mikään ihmeellistä,rien,כלום,ništa,semmi máshogy,apapun,niente,何 も,helemaal niets,,,nada,nimic,,nič,ništa,ingenting,hiçbir şey,gì,我什 么也
+147,أى,нищо,nešto,něco,noget,irgendwas,κάτι,anything,nada,miski,mikään,rien,,nešto,semmi,,niente,,wat,noe,nic,nada,,ничто,nič,nešto,någon,,thứ gì,東西
+148,الشئ,нещо,ništa,nic,nogen,was,κάτι,anything,algo,miski,mikään vastaavaa,rien,דבר,ništa,hasonlót,,simile,こと,zoiets,noe,coś,nada,ceva,ничто,nič,ništa,någon,şey,thứ gì,
+149,أى,нищо,ništa,,ingenting,,τίποτα,anything,nada,miski,mikään,rien,דבר,ništa,semmi,apa-apa,niente,何 も,niks,noe,rzekł,nada,niciun,ничто,nič,ništa,ingen,şey,gì cả,么也
+150,شيء,,ništa,,noget,,τίποτα,anything,nada,miski,mikään,rien,כלום,ništa,semmi,,niente,何 も,niets,noenting,nic,nada,nimic,ничто,nič,ništa,ingenting,şey,gì cả,
+151,أى,нищо,ništa,nic,noget,nichts,τίποτα,anything,nada,miski,mikään,rien,כלום,ništa,hely,,niente,何,niets,noe,nic,nada,nimic,ничто,nič,ništa,ingenting,şey,gì cả,什麼 都
+152,شيء ما,чудо,nešto,,noget,etwas,κάτι,anything,nada,miski,vastaavaa,,דבר,što,olyat,,genere,も,zoiets,noe,coś,coisa,ceva,ничто,česa,nešto,någon,şey,thứ gì,
+153,شيء,нищо,ništa,nic,noget,nichts,τίποτα,anything,nada,miski,mikään,rien,דבר,ništa,semmi,,niente,何 も,niks,noe,nic,nada,nimic,,nič,ništa,någon,şey,gì,东
+154,شيء,,ništa,,sløret,nichts,τίποτα,anything,nada,mingeid vihjeid,mikään,rien,כלום,ništa,semmi,,niente,何 も,niets,noe,wszystko,nada,nimic,ничто,nič,ništa,någonting,hiçbir şey anlatmayacak,điều gì,么也 不能告
+155,,нищо,ništa,,intet,nichts,τίποτα,anything,nada,miski,,courant,כלום,ništa,semmi,apa-apa,niente,事,niets,noe,nic,nada,nimic,ничто,nič,ništa,ingenting,şey,gì,
+156,شيء ما,нищо,ništa,,noget,nichts,τίποτα,anything,nada,miski,mikään,rien,כלום,ništa,semmi,apa-apa,volete,何 も,niks,ting,nic,nada,nimic,,,,​​vet,şey,gì cả,
+157,شيء ما,нищо,ništa,nic,intet,nichts,τίποτα,anything,nada,miski,mikään,rien,כלום,ništa,semmi,sesuatu,niente,何 も,niets,noe,nic,nada,nimic,ничто,nič,ništa,någonting,şey,gì,anything
+158,شيء,,ništa,,noget,nichts,τίποτα,anything,nada,miski,mikään,rien,כלום,ništa,semmi,apa-apa,niente,何 も,niets,noe,nic,nada,nimic,ничто,nič,ništa,ingenting,,gì,何 东 西
+159,,нищо,nešto,,noget,nichts,τίποτα,anything,nada,miski,mikään,,משהו,nešto,semmi,apa-apa,niente,,,noe,nic,nada,nimic,ничто,nič,nešto,ingen,şey,điều gì,什
+160,شيء,нищо,ništa,,noget,nichts,τίποτα,nothing,nada,mitte miski,mikään,rien,כלום,ništa,,ada,niente,も 何,niets,ingenting,nic,nada,nimic,ничто,nič,ništa,ingen,yok,gì,
+161,شيء ما,нищо,ništa,,ingenting,nichts,τίποτα,nothing,nada,miski,mikään,rien,דבר,ništa,semmi,,niente,何 も,niks,ingenting,nic,nada,nimic,ничто,nič,ništa,ingenting,şey,,么也
+162,شيء,нищо,ništa,nic,noget,nichts,τίποτα,nothing,nada,miski,mikään,rien,כלום,ništa,semmi,tidak ada,niente,,niets,ingenting,nic,nada,nimic,ничто,nič,ništa,ingenting,,,没什 么
+163,يدعو,няма,nemaš,čeho,noget,,δεν,nothing,nada,,ei mikään,aucune,אין,,nincs mitől,tak ada,c'è,こと,niets,noe,,não,n-ai,нечто,nič,nema razloga,ingen,şey yok,,没什 么
+164,,какво,nemaš,nemá,intet,nichts,,nothing,nada,miski,mikään,aucune,ממה,nemaš čega,,tak,nulla,無,nergens,ingenting,co,não,n-ai,,nič,što,inte,yok,gì,不是
+165,شيء,,ništa,,intet,nichts,τίποτα,nothing,nada,miski,mikään,rien,שום דבר,ništa,semmi,apa-apa,,何,,ingenting,nic,nada,nimic,,nič,ništa,ingen,şey yok,gì,没有
+166,شيء,нищо,ništa,,intet,nichts,τίποτα,nothing,nada,miski,,rien,אין דבר,ništa,semmi,tidak ada,niente,呆れ,met,ingenting,nic,nada,nimic nu,ничто,najbolj,ništa,ingen,hiçbir şey,không gì,最令
+167,شيء,нищо,ništa,,intet,nichts,τίποτα,nothing,nada,,mikään,rien,כלום,ništa,semmi,tidak ada,niente,有,niets,ingenting,nic,nada,nimic,ничто,nič,ništa,ingen,yok,,一无
+168,شيء,нищо,ništa,,ingenting,nichts,τίποτα,nothing,,miski,mikään,rien,דבר,ništa,semmi,tak ada,niente,事 でき,niets,ingen ting,nic,nada,,ничто,nič,ništa,ingen,,,谁也
+169,للخوف,какво,,,intet,nichts,τίποτα,nothing,nada,miski,ei,rien,,,semmi,apa,niente,も,niets,ingenting,co,nada,nu,нечто,nič,što,ingen,korkuyorsun,,没什 么
+170,شيء,не,,nic,intet,nichts,τίποτα,nothing,nada,ei,ei,rien,,,semmi,tidak,niente,,nee,ingenting,nic,nada,nimic,ничто,nič,ništa,ingenting,değil,không,没有
+171,شيء,нищо,ništa,nic,noget,nichts,τίποτα,nothing,nada,mitte miski,mikään,rien,כלום,ništa,semmi,tak ada,niente,別,niks,ingenting,nic,nada,nimic,ничто,nič,ništa,ingeting,şey yok,,没事
+172,شيء,няма,ništa,nemá,intet,nichts,τίποτα,nothing,nada,miski,mikään,rien,כלום,ništa,semmi,,niente,何 も,niks,ingenting,nic,nada,nimic,ничто,nič nimaš,ništa,ingenting,hiçbir şey yok,,无
+173,يدعو,няма,ništa,není,intet,grund,τίποτα,nothing,nada,pole,ei,ne,אין,ništa,nincs,tak,non,な,niks,ingenting,ma,nada,nu,беспокойтесь,brez,,ingen,şey yok,không,没什 么
+174,,,ništa,,intet,nichts,τίποτα,nothing,nada,miski,mikään,rien,שום דבר,ništa,semmi,tak ada,niente,も,niets,ingenting,ani,nada,nimic,ничто,nič,ništa,,hiçbir şey,,没
+175,شيء,нищо,ništa,nic,intet,nichts,τίποτα,nothing,nada,miski,mikään ei,rien,שום דבר,ništa,semmi,tak ada,niente,,niets,ingen,nic,nada,nimic nu,ничто,nič,ništa,ingenting,hiçbir şey,không gì,没有 东
+176,شيء ما,,ništa,nic,intet,nichts,τίποτα,nothing,nada,miski,,ne,דבר,ništa,semmi sem,,niente,,nergens,ingenting,nic,nada,nimic,ничто,nič,nitko,ingen,hiçbir,gì cả,么 都
+177,شيء,нищо,ništa,nic,intet,nichts,τίποτα,nothing,nada,miski,ei,rien,דבר,ništa,semmi,ada,niente,,niets,ingenting,nic,nada,nimic,никто,izgubil vse,ništa,ingenting,,gì cả,无 所有
+178,نكرة,нищо,ništa,nic,intet,nichts,τίποτα,nothing,nada,tühi,mikään,rien,שום דבר,ništa,senki,siapa-siapa,nulla,,niets,ingenting,nic,nada,nimic,никто,nič,ništa,ingenting,hiçbir şey,,什 么 都
+179,شيء ما,нищо,ništa,nic,noget,nichts,τίποτα,nothing,nada,miski,mikään,rien,כלום,ništa,teszünk semmi,tidak,niente,何 も,niets,noe,nic,nada,nimic,,nič,učinimo ništa,ingen,hiçbir şey,gì,
+180,شيء,нещо,nešto,něco,,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,,wat,noe,coś,algum coisa,ceva,что-нибудь,kaj,nešto,någon,bir şey,gì,
+181,شيء,нищо,ništa,nic,intet,nichts,τίποτα,nothing,nada,miski,mikään,rien,אין דבר,ništa,semmi sem,,niente,,niets,ingenting,wszystko,nada,nimic nu,,nič,ništa,ingen,,,没有 什 么 东
+182,شيء ما,нищо,ništa,nicka,intet,nichts,τίποτα,nothing,nada,tühi,mikään,rien,דבר,ništa,semmi,tak,niente,,niets,ingenting,nic,nada,nimic,ничто,nula,ništa,ingen,hiçbir şey yok,,
+183,شيء ما,нищо,ništa,nic,intet,nichts,τίποτα,nothing,nada,mitte miski,mikään,rien,,ništa,semmi,,niente,何 も 残,niets,noe,nic,nada,nimic,ничто,nič,ništa,ingenting,hiçbir,,
+184,شيء,нищо,ništa,nic,ikke,nichts,τίποτα,nothing,nada,miski,ole,rien,נשאר,ništa,,apa-apa,niente,何 も な,niets,ikke noe,,nada,nimic,,nič,ništa,ingen,şey yok,,没
+185,شيء,нищо,ništa,nic,noget,nichts,τίποτα,nothing,nada,miski,ei ole mikään,rien,,ništa,semmi,tak ada,niente,何 も,niets,ingenting,nic,nada,nimic,ничто,nič,ništa,ingen,şey yok,,沒找
+186,شيء,нищо,nitko,nemá,intet,nichts,,nothing,nada,pistmist,ole mitään,rien,,nikakve,semmi,kaitannya,niente,,niets,noe,nic,nada,nimic,виновата,nič,nikakve vese,ingen,alakası yok,gì hết,不是 因
+187,شيء,нищо,ništa,nic,ingenting,nichts,τίποτα,nothing,nada,mitte miski,mikään,rien,שום דבר,ništa,semmi,tidak ada,niente,,niets,ingenting,nic,nada,nimic,ничто,nič,ničeg,ingen,hiçbir şey,,没什 么
+188,,нищо,ništa,nic,noget,nichts,τίποτα,nothing,nada,miski,mikään,rien,כלום,ništa,semmi,tidak ada,niente,もの,niets,ingenting,nic,nada,nimic,ничто,nič,ništa,ingen,şey değil,không gì cả,什 么 没什 么
+189,شيء,нищо,ništa,nic,intet,nichts,τίποτα,nothing,nada,miski,ei,,שום דבר,ništa,semmi,ada apa-apa,niente,も 何 も,niets,noe,nic,nada,nimic,ничто,nič,nitko,ingenting,hiçbir şey yok,gì cả,什 么也 没
+190,بدون,безплатно,besplatno,nic,gratis,umsonst,τζάμπα,nothing,dé gratis,tasuta,ilmaiseksi,rien,דבר,badava,ingyen,gratis,cederò,,gratis,gratis,nic,borla,gratis,даром,podaril,džabe,gratis,,,费
+191,بدون,не,ništa,,noget,nichts,τίποτα,nothing,sin,,mikään,,דבר,ništa,,bukan,niente,ただ,niets,noe,nie,nada,nimic,без,,ništa,ingen,şey,gì cả,不是
+192,شيء,нищо,ništa,,ingenting,nichts,τίποτα,nothing,nada,miski,mikään,rien,,ništa,semmi,,niente,も,niks,ingenting,nic,nada,nimic,ничто,nič,ništa,ingen,hiçbir şey,,没事
+193,شيء,няма,ništa,nic,noget,nichts,τίποτα,nothing,nada,miski,,rien,דבר,ništa,sem,ada,niente,こと,niets,ingenting,,nada,nimic,ничто,nič,ništa,ingen,şey yok,gì,没什 么
+194,شيء,нищо,šta,nic,,etwas,τίποτα,anything,nada,miski,mikään,rien,דבר,što,semmi,hal,nient'altro,こと,iets,noe,coś,nada,nimic,,nič,,någon,hiçbir şey,gì,
+195,يوجد,нищо,ništa,nic,intet,nichts,τίποτα,nothing,nada,,,aucune,שום דבר,pametnijeg,,bukan,niente,こと,niets,ingenting,nic,nada,,ничто,nič,ništa,ingen,şey yok,,没有
+196,,нищо,,zbytečně,ingenting,umsonst,μάταια,nothing,nada,miski,mikään,rien,לשווא,ništa,,sia,niente,も,niets,ingenting,,nada,van,ничто,zaman,uzalud,ingen,,vô,斃
+197,شيء,нищо,ništa,nic,noget,nichts,τίποτα,nothing,nada,miski,mikään,rien,כלום,ništa,semmi,tidak ada,niente,別,niets,ingenting,nic,nada,nimic,ничто,nič,ništa,ingenting,hiç,,没事
+198,ليس,,ništa,nic,,nichts,,nothing,nada,miski,mikään,rien,כלום,,semmi,tidak,niente,も,niks,ingenting,nic,nada,nimic,пусто,nič,ništa,någon,hiçbir şey yok,,没有
+199,ليس,нищо,ništa,nic,intet,nichts,τίποτα,nothing,nada,miski,ole mitään,rien,אין,ništa,nincs,tidak ada,niente,も 何 も な,niets,ingenting,,nada,nu,ничто,nič,nemamo,ingen,şey,,没
+200,شيء,нищо,ništa,,intet,nichts,δεν,nothing,nada,miski,mikään,rien,דבר,ništa,semmi,tidak ada,nulla,何 も,niets,ingen ting,nic,nada,,,,ništa,ingenting,hiçbir şey,,都
+201,شيء,нищо,ništa,,intet,nichts,τίποτα,nothing,nada,mitte miski,mikään,rien,שום דבר,ništa,semmi,tak ada,niente,,niets,ingenting,nic,nada,nimic,ничто,nič,ništa,ingenting,hiçbir şey,,一无
+202,,,čega,čeho,intet,nichts,τίποτα,nothing,nada,miski,ole,rien,אין ממה לפחד,,mitől,tiada,abbiate,,niets,ingenting,co,nada,nu,нечто,nič,nemate šta,ingen,şey yok,gì,没什 么
+203,,нищо,ništa,nic,nothing,nichts,τίποτα,nothing,nada,pole,,rien,דבר,ništa,semmi,ada,niente,もの,niets,ingenting,nic,nada,nimic,ничто,nič,ništa,ingen,şey,gì,世上
+204,شيء,нищо,ništa,prázdné,,nichts,τίποτα,nothing,nada,pole,ei ole mikään,rien,אין שום דבר,nemam ništa,ürsek,tak ada apapun,niente,も,niks,ingenting,,nada,nimic,пусто,,ništa,ingen,şey,,没有
+205,شيء ما,нищо,ništa,,noget,nichts,τίποτα,nothing,nada,miski,ei mikään,rien,משהו,ništa,semmi,,niente,有,niks,noe,nic,nada,nimic,ничто,nič,ništa,ingen,şey yok,,没有
+206,,нищо,ništa,nic,,nichts,τίποτα,nothing,nada,ei miski,ei mikään,rien,שום דבר,ništa,senki,tidak ada,niente,,niets,ingenting,nic,nada,nimic,ничто,nič,ništa,någon,hiçbir,,没什 么
+207,شيء ما,нищо,ništa,,noget,,τίποτα,nothing,nada,miski,mikään,rien,שום דבר,ništa,semmi,apa pun,niente,何,niets,noe,nic,nada,nimic,ничто,nič,ništa,ingen,,,东
+208,شيء ما,няма,čega,,ikke,nichts,τίποτα,nothing,nada,miski,,rien,אין,više,nincs,tidak,nulla,何 も,niets,ikke,co,nada,nu,больше,ni,što,inte,hiçbir,,无 所有 没什 么
+209,شيء,,ništa,,noget,,κάτι,nothing,nada,miski,tuttua,rien,משהו,ništa,semmi,belum,niente,,niets,noe,nic,nada,nimic,,nič takega,ništa,ingen,şey,không có gì,没有 什 么
+210,شيء,нищо,ništa,nic,intet,nichts,τίποτα,nothing,nada,pole miski,ole mitään,rien,,ništa,nincsen semmim,,niente,も,niets,ingenting,nic,nada,nimic,ничто,nič nimam,ništa,ingen,şey yok,,么也 没有
+211,شيء,нищо,ništa,nic,intet,nichts,τίποτα,nothing,nada,miski,ei mikään,rien,שום דבר,ništa,semmi,tidak ada,niente,何 も,niets,ingenting,nic,nada,nimic,ќичего,nič,ništa,ingenting,hiçbir şey,chẳng,没感
+212,,нищо,ništa,nic,intet,nichts,τίποτα,nothing,,miski,ole mitään,rien,אין,ništa,semmi,tidak ada,nulla,もの,niets,ingenting,,nada,,ничто,nič,ništa,ingen,hiçbir şey yok,gì,费
+213,أى,нищо,ništa,nicjiného,noget,nichts,κάτι,anything,nada,miski,mikään,rien,משהו,ništa,semmi,apapun,ricordare,何,,noe,nic,nada,nimic,ничто,nič,ništa,någon,şey,bất cứ điều gì,任 何
+214,أى,нищо,ništa,,noget,,τίποτα,anything,nada,miski,mikään,rien,,ništa,semmi,,niente,何 も,niets,noenting,nic,nada,nimic,ничто,nič,ništa,någon,şey,gì hết,什麼 都
+215,يدعو,нищо,ništa,nic,ingenting,nichts,τίποτα,nothing,nada,tühiasi,,rien,שום דבר,ništa,semmi,parah,niente,こと,niets,ingenting,nic,nada,nimic,ничто серьезного,nič,ništa,ingenting,değil,không,没事
+216,لاشئ,нищо,ništa,nic,intet,nichts,τίποτα,nothing,nada,miski,mikään ole,rien,שום דבר,ništa,semmi,apa-apa,niente,,niets,ingenting,,nada,nimic,ничто,nič,ništa,ingenting,yok,,没事
+217,شيء,,ništa,nic,,nichts,,nothing,nada,mitte,mikään,rien,כלום,ništa,senki,bukan,niente,な,niks,ingenting,nic,nada,nimic,ничто,nič,ništa,ingenting,,,什 么 都 不是
+218,شيء,нищо,ništa,nic,ikke,nichts,τίποτα,nothing,más,miski,pelkästään,rien,,ništa,semmi,tak,nient'altro,ただ,niets,ingenting,nic,apenas,altceva,что,,ništa,ingen,şey,,
+219,أى,всичко,,,alt,alles,πάντα,anything,sea,iganes,kaikkesi,tout,הכל,sve,bármi,apapun,,,alles,,wszystko,farás tudo,orice,всё,vse,utsiniti,vadsomhelst,her şey,mọi,任 何事
+220,أى,всичко,bilo,,alt,alles,πάντα,anything,sea,iganes,kaikkensa,tout,הכל,sve,bármi megtenne,apapun,,,alles,alt,wszystko,tudo,orice,,vse,bilo,allt,her şey,mọi thứ,
+221,شيء,каквото,sve,cokoliv,,alles,τιδήποτε,anything,sea,kõik,tahansa,tout,דבר,sve,bármi,apa pun,tutto,って,alles,noe,wszystko,tudo,orice,всё,vse,sve,helst,her şey,chuyện gì,何
+222,أى,всичко,sve,cokoliv,helst,alles,πάντα,anything,sea,soovite,vain,quelque chose,כל דבר,sve,mindent,apa saja,tutto,,alles,helst,chcesz,,,угодно,vse,sve,,her şey,hết mọi thứ,什 么 都
+223,أى,всичко,sve,cokoliv,alt,alles,πάντα,anything,cualquier cosa,kõik,vain,tout,הכל,sve,,apa saja,qualsiasi,,alles,helst,wszystko,tudo,orice,,vse,sve,,her şey,gì,任 何事
+224,أى,всичко,ono,něco,lige,was,όποια,anything,lo,kes iganes,tahansa,tout,כל דבר,što god,ami,apapun,qualsiasi,,wat,akkurat,cokolwiek,quiseres,orice,кто,kar,šta god,vad,her şey,bất cứ,为任 何
+225,,каквото,god,cokoliv,lige,alles,οτιδήποτε,anything,lo,minult,ihan,tout,,što god,bármi,apa saja,tutto quello,何,wat,helst,zechcesz,,orice,,kar,pitash,vad,her,,任 何
+226,أى,всичко,sve,cokoliv,alt,alles,πάντα,anything,sea,ükskõik,tahansa,,,sve,mindent,apapun,tutto,も,,alt,wszystko,tudo,orice,всё,vse,sve,allt,her şey,bất cứ gì,
+227,شيء,направила,sve,,alt,alles,πάντα,anything,cualquier cosa,,vain,,,sve,bármi,apapun,qualsiasi,何,alles,absolutt alt,wszystko,qualquer coisa,orice,всё,vse,uchinila sve,allt,yaparım,mọi điều,任 何
+228,شيء,,sve,cokoliv,helst,alles,οτιδήποτε,anything,sea,ükskõik,vain,n'importe,הכל,sve,bármi,apapun,qualunque,も,alles,,wszystko,,orice,всё,karkoli,bilo šta,helst,her şey,cả mọi thứ,任 何事
+229,شيء,,sve,,helst,etwas,πάντα,anything,cualquier,kõik,vain,naïfs,דבר,sve,hiszékenyek,apa saja,tutto,,alles,alt,,qualquer coisa,orice,пoвepят,lahkoverni,sve poverovati,allt,her şeye,gì,何事
+230,أى,някой,nešto,,noget,etwas,κάτι,anything,algo,mingeid,mikään,chose,משהו,nešto,semmi,sesuatu,qualche,,niets,noe,nic,nenhuma,comiţi,,česa,nešto,någon,şey,chuyện gì,
+231,شيء,нещо,nešto,něco,noget,,κάτι,something,algo,miski,,quelque chose,משהו,nešto,valami,ada,qualcosa,,iets,noe,coś,algum coisa,ceva,что-то,nekaj,nešto,,bir şey,gì đó,東西
+232,أى,нищо,ništa,nic,noget,,τίποτα,anything,nada,miski,mikään,,שום דבר,ništa,semmi,apapun,niente,何 も,niets,noe,nic,nada,nimic,ничто,nič,ništa,någon,şey,thứ gì hết,都
+233,شيء ما,нищо,ništa,,ingenting,nichts,τίποτα,anything,nada,miski,mikään,rien,כלום,ništa,semmi,,nulla,も,niets,ingenting,nic,nada,nimic,ничто,nič,ništa,ingenting,şey,gì cả,
+234,شيء,,ništa,nic,noget,nichts,τίποτα,anything,nada,juhtunud miski,käydä,passé,כלום,ništa,bármi,sesuatu,niente,,niets,noe,coś,nada,,что-то,nič,bilo šta,ingenting,şey,gì,
+235,شيء ما,нещо,nešto,,noget,irgendetwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,何 か あ,iets,noe,coś,algum coisa,ceva,что-то,nekaj,nešto,någon,bir şey,gì đó,
+236,شيء ما,нещо,nešto,,noget,etwas,θέαμα,something,algo,miski,jokin,quelque chose,משהו,nešto,,yang,vedranno,何 か,,noe,coś,algo,ceva ce,нечтo,nekaj,nešto,någon,bir,điều,
+237,شيء,нещо,,něčem,noget,was,κάτι,something,algo,miski,jokin,quelque chose,משהו,nečemu,valami,sesuatu,qualcosa,か,ergens,noe,coś,algo,ceva,что-нибудь,nečem,nečemu,någon,şey,gì,什
+238,,нещо,nešto,nějaký,noget,etwas,κάτι,something,algo,miski,jokin,un truc,משהו,nešto,valami,sesuatu,qualche,,iets,noe,coś,uma,,,kakšno,nešto,någon,bir şey,một điều gì đó,件
+239,شيء ما,нещо,nešto,,noget,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,,iets,noe,coś,algum coisa,ceva,что-нибудь,,nešto,någon,bir şey,gì,
+240,شيء ما,нещо,nešto,,noget,was,κάτι,something,algo,miski,jokin,chose,משהו,nešto,,makhluk,qualcosa altro,何 か,iets,noe,coś,algum,ceva,что-нибудь,kaj,nešto,någon,bir şey,thứ,动
+241,شيء,нещо,nešto,něco,noget,was,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,か,wat,noe,,algo,ceva,что-то,kaj,nešto,någon,bir şey,một vài thứ,
+242,شيء,нещо,nešto,něco,der,gibt,κάτι,something,algo,miski,,quelque chose,משהו,nešto,,ada,dell'altro,,iets,noe,,algum,altceva,что-то,kaj,nešto,någon,,gì,什
+243,شيء,нещо,nešto,,,etwas,κάτι,something,algo,miski,mikään,,משהו,nešto,valami,sesuatu,qualcosa,,iets,noe,coś,coisa,ceva,что-нибудь,nekaj,nešto,någon,şey,gì,
+244,شيء,нещо,nešto,něco,noget,unternehmen,κάτι,something,algo,,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,何 か,iets,noe,coś,algum coisa,ceva,что-то,nekaj,nešto,någon,şey,điều,点 什么
+245,‫افعل,нещо,nešto,něco,noget,was,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,,iets,noe,coś,algum coisa,ceva,что-нибудь,ukreni kaj,nešto,någon,şey,gì,想想 办
+246,شيء ما,нещо,,něco,noget,etwas,κάτι,something,algo,miski,jokin,,ממשהו,nešto,valami,,qualcosa,,ergens,noe,coś,algo,ceva,что-то,nekaj,nešto,någon,şey,gì đó,东西
+247,شيء ما,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,quelque chose,שמשהו,nešto,valami,sesuatu,qualcosa,こう,iets,noe,coś,algum coisa,ceva,что-то,nekaj,nešto,någon,bir şey,một thứ,某 些
+248,شيء,нещо,nešto,něco,noget,was,κάτι,something,algo,miski,jokin,,משהו,nešto,valami,sesuatu,qualcosa,か,iets,,coś,algum coisa,ceva,что-нибудь,nekaj,nešto,någon,şey,gì đó,东 西
+249,شيء,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,quelque chose,,nešto,valami,sesuatu,qualcosa,何 か,iets,noe,coś,algum coisa,ceva,что-то,nekaj,nešto,någon,şey,gì đó,肮脏
+250,شيء,нещо,nešto,,noget,was,,something,,miski,jokin,un,משהו,nešto,valami,yang,una,,iets,noe,coś,uma,ceva,что-то,nekaj,nešto,någon,bir şey,,something
+251,,някой,nešto,něco,noget,zugeschnappt,κάτι,something,algo,miski,jokin,,ומשהו,nešto,,ada,qualcosa,何 か,iets,noen,coś,algo,ceva,кто-то,nekaj,nešto,någon,şey,,
+252,شيء ما,нещо,nešto,něco,noget,etwas,κάτι,something,algo,,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,か,iets,noe,,algum coisa,ceva,что-то,nekaj,nešto,någon,bir şey,cái,处
+253,,нещо,nešto,něco,gøre,was,κάτι,something,algo,miski,jokin,,משהו,nešto,valami,nak,qualcosa,何 か,iets,noe,coś,algum coisa,ceva,,kaj,nešto,,şey,gì đó,东 西
+254,التصرّف,нещо,nešto,,noget,unternehmen,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,何 か,iets,noe,coś,algo,ceva,что-то,kaj,nešto,någon,şey,gì đó,ㄆ
+255,بشيء,нещо,nešto,něco,,irgendetwas,κάτι,something,algo,miski,jokin asia,quelque chose,במשהו,nešto,,sesuatu,qualcosa,,iets,noe,coś,algo,ceva,,kaj,nešto,någon,şey,thứ gì đó,东西
+256,شيء ما,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,何 か,wat,noe,coś,algum coisa,ceva,что-то,kaj,nešto,någon,bir şey,đó,些 事情
+257,شيء ما,нещо,nešto,něco,noget,etwas,,something,algo,miski,ruokaa,quelque chose,,nešto,valami,sesuatu,qualcosa,何 か,wat,noe,coś,algum coisa,ceva,что-то,nekaj,nešto,någon,şey,gì đó,东西
+258,شيء,нещо,nešto,něco,noget,,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,,iets,noe,coś,algum coisa,ceva,что-нибудь,,nešto,någon,şey,,有些 东西
+259,شيء,нещо,nešto,,,etwas,,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,ada,qualcosa,,iets,noe,coś,algum coisa,ceva,что-то,nekaj,nešto,någonting,şey,gì,有些
+260,شيء ما,нещо,nešto,něco,noget,was,κάτι,something,algo,miski,,,משהו,nešto,valami,sesuatu,qualcosa,何 か,wat,noe,coś,coisa,ceva,,kaj,nešto,någon,şey,cái gì,点 东 西了
+261,بشيء,нещо,,něco,noget,etwas,κάτι,something,algo,miski,,,משהו,nečim,,hal,qualcosa,もの,iets,noe,coś,algo,ceva,что-то,nekaj,nešto,någon,bir şey,,出现
+262,بشئ,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,choses,משהו,nešto,valami,sesuatu,qualcosa,か,iets,noe,coś,coisa,ceva,что-то,nekaj,nešto,någon,şey,nên điều,成就
+263,شيء ما,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,un truc,משהו,nešto,valami,seseorang,qualcosa,か,iets,noe,coś,algum coisa,ceva,кто-то,nekaj,nešto,någon,şey,gì,
+264,شيئاً,нещо,nešto,něco,,,κα'να,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,何 か,,noe,,algum coisa,ceva,что-нибудь,kaj,nešto,någon,şey,cái gì đó,東西
+265,شيء,нещо,nešto,,noget,etwas,κάτι,something,algo,miski,jokin,,משהו,nešto,valami,sesuatu,qualcosa,,iets,noe,coś,algo,ceva,такое,nekaj,nešto,någon,bir şey,thứ gì,
+266,شيء ما,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,onko,,משהו,nešto,valami,sesuatu,qualcosa,何 か,iets,noe,coś,algum coisa,ceva,что-то,kaj,nešto,någon,bir,gì,点
+267,شيء ما,нещо,nešto,něco,noget,was,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,事,iets,noe,coś,algo,,какую-то,kaj,nešto,någonting,şey,gì,
+268,شيء,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,,משהו,nešto,valami,sesuatu,una cosa,,iets,noe,coś,algum coisa,ceva,что-то,kaj,nešto,någon,şey,gì,
+269,شيء ما,нещо,nešto,něco,noget,irgendwas,κάτι,anything,algo,miski,mikään,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,何,iets,noe,coś,coisa,ceva,что-то,kaj,nešto,någon,şey,gì,或
+270,شيء,нещо,nešto,něco,noget,irgendwas,τίποτα,something,algo,miski,jokin,truc,משהו,nešto,valami,sesuatu,qualcosa,何 か,iets,noe,coś,algum coisa,ceva,что-то,kaj,nešto,någon,şey,gì,
+271,شيء ما,нещо,nešto,něco,noget,was,κάτι,something,algo,miski,jokin,,משהו,nešto,valami,,una cosa,,iets,noe,coś,uma,ceva,,nekaj,nešto,sak,bir şey,cái,件
+272,أى,нещо,išta,,noget,irgendetwas,τίποτα,anything,algo,miski,mikään,rien,משהו,išta,valami,menceritakan,qualcosa,,iets,nevnt,,algum coisa,ceva,что-нибудь,nič,nešto,någon,şey,gì,都
+273,شيء ما,нещо,nešto,něco,noget,etwas,τίποτα,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,もの,iets,noe,coś,algum coisa,ceva,что-нибудь,kaj,nešto,någon,bir şey,vài thứ,可説明
+274,بشيء,нещо,išta,,noget,irgendetwas,τίποτα,anything,algo,miski,jokin,quelque chose,משהו,išta,bármi,sesuatu,niente,何,iets,noe,coś,algum coisa,ceva,что-нибудь,kaj,nešto,någon,şey,gì,或
+275,شيء,нещо,nešto,,noget,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,,wat,tjeneste,coś,coisa,ceva,кое-что,nekaj,nešto,sak,şey,một việc,ㄇ
+276,أى,нещо,nešto,něco,noget,etwas,τίποτα,anything,algo,miski,tarvitsetko,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,,iets,noen,coś,algum coisa,ceva,обезболивающие,kaj,nešto,någon,,giảm,anything
+277,أى,,ništa,,noget,was,,anything,algo,miski,mikään,,משהו,što,mindent,sesuatu,qualcosa,何,iets,noe,coś,algum coisa,ceva,что-нибудь,kaj,nešto,någon,şey,gì,
+278,شيء,нещо,nešto,,noget,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,か,iets,noe,coś,algo,ceva,,nekaj,nešto,någon,,một,
+279,شيء ما,нещо,išta,,noget,etwas,τίποτα,anything,algo,miski,jokin,quelque chose,משהו,što,valami,sesuatu,qualcosa,何,iets,noe,coś,algum coisa,ceva,что-нибудь,kaj odkrili,nešto,någon,şey bulabildiniz,gì,發現 什麼
+280,شيء,нещо,nešto,,noget,was,κάτι,something,algo,miski,jokin,qu'il,משהו,nešto,valami,sesuatu,qualcosa,,iets,noe,coś,algo,ceva,привезли,kaj,nešto,någon,şey,gì,东 西
+281,شيء,,nešto,něco,noget,etwas,κάτι,something,algo,miski,,quelque chose,במשהו,nešto,valami,sesuatu,una,,iets,noe,coś,algum coisa,ceva,что-то,kaj,nešto,någon,bir,gì,
+282,شيء,нещо,išta,něco,noget,was,τίποτα,anything,algo,leidsite misti,oliko mikään,alors,משהו,išta,valami,sesuatu,qualcosa,なに,iets,noe,nic,algum coisa,ceva,есть,kaj,,någon,şey,gì,
+283,أى,,nešto,něco,noget,etwas,κάτι,anything,algo,miski,jokin,quelque chose,משהו,,valami,ada,qualcosa,何,iets,noe,coś,algum coisa,ceva,что-нибудь,kaj,trebate,någon,,gì,
+284,شيء ما,нещо,nešto,něco,noget,,κάτι,something,algo,miski,jokin,truc,משהו,nešto,valami,sesuatu,qualcosa,か,iets,noe,coś,algum coisa,ceva,что-то,kaj,nešto,någon,şey,gì,
+285,شيء,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valamid,sesuatu,qualcosa,何 か,iets,noe,coś,algum coisa,ceva,кое-что,kaj,nešto,någon,şey,gì,有东 西
+286,,нещо,nešto,něco,noget,,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa altro,か,iets,noe,coś,coisa,,что-то,nekaj,nešto,någon,şey,thứ gì,东西
+287,شيء,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nečim,,sesuatu,qualcosa,か,iets,noe,coś,algum coisa,ceva,что-то,nekaj,nešto,någon,şey,một thứ gì đó,
+288,شيء ما,нещо,nešto,něco,noget,was,κάτι,something,algo,vastuteene,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,事,iets,noe,coś,uma coisa,ceva,кое-что,uslugo,nešto,tjänst,şey,một,件
+289,شيء,,nešto,,der,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,ada sesuatu,qualcosa,何 か,iets,noe,coś,algo,ceva,,nekaj,nešto,någon,şey,chuyện gì,
+290,شيء ما,облекчи,nešto,,noget,schmerzmittel,κάτι,something,algo,miski,jokin,un,משהו,nešto,,sesuatu,qualcosa,何 か,wat,noe,coś,algo,,,,nešto,någon,bir şey,cái,东 西
+291,شيء ما,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,una cosa,,iets,noe,coś,algo,,что-то,nekaj,nešto,någon,şey,thứ,
+292,,,nešto,,noget,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,何 か,iets,noe,coś,algo,ceva,что-то,nekaj,nešto,någon,şey,vài điều,你有 某
+293,شيء ما,нещо,nešto,něco,ting,etwas,κάτι,something,algo,miski,jokin,un,משהו,nešto,valami,sesuatu,,,iets,noe,,algo,ceva,кое-что,nekaj,nešto,någon,şey,một thứ,些 东西
+294,شيء,нещо,nešto,něco,noget,,κάτι,something,algo,,jokin,,משהו,nešto,valami,sesuatu,cosa,何 か,iets,,coś,coisa,ceva,что-то,nekaj,nešto,någon,şey,một điều,些 事情
+295,شيء,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,,משהו,nešto,valami,,qualcosa,,iets,noe,coś,algo,ceva,что-то,nekaj,nešto,någon,bir şey,gì đó,
+296,شيء,,nešto,,noget,etwas,κάτι,something,algo,miski,jokin,un,משהו,nešto,valami,sesuatu,qualcosa,何 か,iets,noe,coś,algo,ceva,что-то,nekaj,nešto,någon,bir şey,gì đó,
+297,شيء ما,нещо,nešto,něco,noget,was,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,,iets,noe,coś,algo,,что-то,nekaj,nešto,någon,şey,thứ,
+298,,нещо,nešto,něco,noget,etwas,κάτι,something,algo,,asia,quelque chose,במשהו,nešto,,sesuatu,qualcosa,物,iets,noe,coś,algo,ceva,нечтo,nekaj,nešto,någon,şey,một thứ gì đó,
+299,شيء,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,何 か,iets,noe,coś,algo,ceva,что-то,nekaj,nešto,någon,bir şey,thứ,事情
+300,,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,,iets,noe,coś,algo,ceva,кое-что,nekaj,nešto,någon,şey,thứ,
+301,شيء,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,,truc,משהו,nešto,valami,hal,una cosa,事,iets,noe,coś,coisa,ceva,,nekaj,nešto,någon,şey,vài điều,ㄆ
+302,شيء ما,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,何 か,iets,noe,coś,algum coisa,ceva,что-то,nekaj,nešto,någon,şey,điều gì đó,
+303,شيء,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,chose,משהו,nešto,valami,hal,c'è,か,iets,noe,coś,coisa,altceva,что-то,nekaj,nešto,någon,bir şey,chuyện,
+304,شيء,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,un truc,משהו,nešto,valami,sesuatu,qualcosa,もの,iets,noe,coś,algo,ceva,кое-что,nekaj,nešto,någon,bir şey,thấy một thứ,
+305,شيء,нещо,nešto,něco,noget,was,κάτι,something,algo,miski,,un,משהו,nešto,valami,,qualcosa,,iets,noe,coś,,ceva,что-то,nekaj,nešto,någon,bir,gì,似
+306,شيء,нещо,nešto,něco,noget,bild,,something,algo,asja,jokin,,משהו,nešto,valami,sesuatu,qualcosa,証拠,iets,noe,coś,algo,ceva,,nekaj,nešto,någon,şey,,東西
+307,شيء ما,нещо,nešto,svým,noget,etwas,κάτι,something,algo,miski,jokin,cause,משהו,nešto,,sesuatu,,あ,ergens,noe,,coisa,,нечтo,,nešto,någon,bir şey,một điều gì đó,东西
+308,شيء,нещо,nešto,něco,noget,irgendetwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,何 か,iets,noe,coś,algum coisa,ceva,что-то,nekaj,nešto,någon,şey,điều gì đó,所
+309,شيء ما,нещо,nešto,něco,noget,was,κάτι,something,cosa,miski,jokin,truc,משהו,nešto,valami,sesuatu,darmi una cosa,いただ,iets,noe,coś,uma coisa,ceva,поможешь,nekaj,nešto,någonting,bir şey,giúp,先帮
+310,شيء ما,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,,sesuatu,qualcosa,何 か,iets,noe,coś,coisa,ceva,что-то,nekaj,nešto,någon,şey,chuyện gì đó,些
+311,شيء ما,нещо,nešto,,,irgendwas,κάτι,something,algo,miski,jokin,un,משהו,nešto,valami,sesuatu,qualcosa,,iets,noe,coś,algum coisa,ceva,что-то,nekaj,nešto,någon,bir şey,thứ gì đó,有东 西
+312,شيء,нещо,nešto,něco,noget,etwas,κάτι,something,,miski,jokin,,משהו,nešto,valami,sesuatu,qualcosa,何 か,iets,noe,coś,coisa,ceva,кое-что,nekaj,nešto,någonting,,gì,
+313,شيء ما,нещо,nešto,něco,noget,was,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,una cosa,,iets,noe,coś,coisa,ceva,кое-что,nekaj,nešto,sak,bir şey,một thứ,东 西
+314,شيء,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,何 か,iets,noe,coś,coisa,ceva,,nekaj,nešto,någon,şey,điều gì,有什
+315,شيء,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,muu,chose,משהו,nešto,mást,sesuatu,dell'altro,ある,iets,noe,coś,coisa,ceva,кое-что,nekaj,nešto,någon,şey,cái,些 东 西
+316,شيء,нещо,,,noget,was,κάτι,something,algo,miski,jokin,quelque chose,משהו,,,sesuatu,una cosa,はず,iets,noe,coś,algum coisa,ceva,что-то,nekaj,nešto,någon,şey,việc,
+317,شيء,нещо,nešto,něco,noget,man,κάτι,something,algo,miski,jokin,un truc,משהו,,valami,ada sesuatu,qualcosa,現れ,iets,noe,coś,algo,ceva,,nekaj,nešto,någon,şey,gì đó,
+318,,нещо,nešto,,noget,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,ada sesuatu,comunque,,,noe,coś,algo,ceva,ведёт,nekaj,nešto,någon,şey,,点
+319,شيء,нещо,,,,vorher,κάτι,something,algo,miski,,chose,משהו,nešto,valami,sesuatu,qualcosa,,iets,noe,coś,coisa,ceva,кое-что,nekaj,nešto,någon,şey,thấy cồn cào,件
+320,شيء,нещо,nešto,,noget,was,κάτι,something,algo,miski,muu,chose,משהו,nešto,valami,hal,dell'altro,もの,iets,noe,coś,uma coisa,ceva,кое-что,nekaj,nešto,någon,bir şey,một thứ,东西
+321,شيء ما,нещо,nešto,,ting,,κάτι,something,,,jokin,,משהו,nešto,valami,sesuatu,una cosa,はず,iets,noe,coś,algo,ceva,кое-что,nekaj,nešto,någon,bir şey,một việc,件
+322,,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,un truc,משהו,nešto,valami,sesuatu,una cosa,事,iets,noe,,coisa,ceva,кое-что,nekaj,nešto,någon,bir şey,điều,
+323,شيء,нещо,nešto,,noget,etwas,κάτι,something,algo,asja,asia,quelque chose,משהו,nešto,valami,ada,una cosa,,,noe,,algo,ceva,,nekaj,nešto,sak,şey,một điều,ㄇ
+324,شيء ما,,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,何 か,wat,noe,coś,algo,ceva,кто-то,nekaj,nešto,någon,şey,gì đó,
+325,شيء ما,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,,un truc,משהו,nešto,valami,sesuatu,una cosa,,zoiets,,coś,uma coisa,ceva,что-то,nekaj,nešto,någon,bir şey,cái,东西
+326,شيء,нещо,nešto,,somethings,irgendwas,κάτι,something,algo,miski,jokin,un,משהו,nešto,,ada,qualcosa,何 か,iets,noe,coś,algum,ceva,что-то,nekaj,nešto,någon,bir,gì,事情
+327,شيء,нещо,nešto,něco,noget,irgendetwas,κάτι,something,algo,,jokin,quelque chose,במשהו,nešto,valami,sesuatu,qualcosa,か あ,iets,noe,,algo,ceva,что-то,nekaj,nešto,någon,bir,điều,某
+328,شيء ما,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,,,משהו,nešto,valami,ada,qualcosa,何 か,iets,noe,coś,algo,ceva,что-то,nekaj,nešto,någon,bir şey,gì đó,有什
+329,شيء,нещо,nešto,,noget,etwas,κάτι,something,algo,miski,jokin,chose,משהו,nešto,valami,sesuatu,qualcosa,,iets wat,noe,coś,algo,ceva,,nekaj,nešto,någon,,thứ,东西
+330,شيء,нещо,nešto,,der,was,κάτι,something,algo,miski,jokin,,משהו,nešto,valami,ada sesuatu,qualcosa,,iets,noe,coś,algo,ceva,что-то,nekaj,nešto,någon,şey,thứ gì đó,狥 ﹁
+331,شيء,нещо,nešto,něco,noget,etwas,κάτι,something,cosa,miski,,un,למשהו,nešto,,sesuatu,qualcosa altro,何 か,iets,noe,coś,coisa,altceva,нечтo,nekaj,nešto,någon,,một thứ,
+332,شيء ما,нещо,nešto,něco,noget,,κάτι,something,algo,miski,jokin,truc,משהו,nešto,valami,sesuatu,qualcosa,何 か,wat,noe,coś,coisa,ceva,что-то,nekaj,,någon,şey,gì đó,
+333,,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,très,משהו,nešto,valami,,qualcosa,大変,iets,noe,coś,algo,ceva,что-то,nekaj,nešto,någon,bir şey,gì đó,有什
+334,شيء,нещо,nešto,,der,,κάτι,something,algo,miski,jokin,un truc,משהו,nešto,valami,ada,una cosa,か,iets,noe,coś,algo,ceva,что-то,nekaj,nešto,någon,şey,chuyện,出了 点
+335,شيء ما,,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,あ,iets,noe,coś,algo,ceva,кое-что,,nešto,någon,,một chuyện,东西
+336,شيء,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,sanottavaa,quelque chose,משהו,nešto,valami,sesuatu,qualcosa,,wat,noe,coś,algo,ceva,,nekaj,nešto,någon,şey,,要说
+337,,нещо,nešto,,noget,etwas,κάποιος,something,algo,miski,jokin,rien,מסוימת,nešto,valami,sesuatu,qualche,何 か,,noe,coś,algum,ceva,что-то,nekaj,nešto,anledning,bir,đó,
+338,شيء,нещо,nešto,,noget,was,κάτι,something,algo,miski,jokin,chose,משהו,nešto,valami,sesuatu,cosa,,iets,noe,coś,coisa,altceva,,nekaj,nešto,någon,şey,cách,办
+339,لشيء,нещо,nešto,,noget,etwas,κάτι,something,algo,miski,,quelque chose,משהו,nešto,dolgot,hal,qualcosa,もの,iets,noe,coś,algo,ceva,кое-что,nekaj,nešto,någon,şey,một thứ,
+340,شيء ما,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,un truc,משהו,nešto,valami,sesuatu,qualcosa,,iets,noe,coś,algum coisa,ceva,,nekaj,nešto,någonting,şey,,
+341,شيء,нещо,nešto,,noget,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,olyat,sesuatu,qualcosa,もの,iets,noe,coś,algo,ceva,нечтo,nekaj,nešto,någon,şey,một thứ,东西
+342,,нещо,nešto,,noget,,δείτε,somethin,algo,miski,jokin,truc,משהו,nešto,akartok valami,melihatnya,volete,もっと,iets,noe,coś,coisa,ceva,кое-что,radi,nešto,någon,misiniz,kiến điều,看吗
+343,شيء,нещо,nešto,něco,noget,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,dolgot,sesuatu,una cosa,,iets,,coś,coisa,ceva,покажу,nekaj,nešto,någon,şey,vài thứ,东 西
+344,شيء,нещо,nešto,něco,noget,,κάτι,something,algo,miski,jokin,un truc,משהו,nešto,valami,sesuatu,qualcosa,現れ,iets,noe,coś,algo,ceva,,nekaj,nešto,någon,şey,gì đó,什么
+345,ما؟,нещо,nešto,,noget,irgendwas,κάτι,something,algo,miski,jokin,quelque chose,,nešto,valami mondanom,sesuatu,qualcosa,何 か,iets,noe,coś,algo,ceva,что-нибудь,nekaj,nešto,någon,bir şey,vài,点
+346,بشيء,нещо,,něco,noget,was,κάτι,something,algo,miski,jokin,truc,משהו,nešto,valami,benda,qualcosa,,iets,noe,coś,coisa,ceva,какую-то,,netko,någon,şey,thứ gì,
+347,بشيء,нещо,nešto,,noget,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,sesuatu,,何 か,iets,noe,coś,algum coisa,ceva,что-нибудь,nekaj,nešto,någon,şey,cái gì đó,点 什
+348,,нещо,nešto,,der,etwas,κάτι,something,algo,miski,jokin,quelque chose,משהו,nešto,valami,ada sesuatu,qualcosa,,iets,noe,,algo,ceva,что-то,kaj,nešto,någon,bir şey,chuyện,疑
+349,مثير،,уникално,mrak,věci,noget,übel,απίστευτο,something,fantástico,,aikamoista,quelque chose,,izuzetno,látványos,sesuatu,notevole,わけ,iets,fantastisk,nieźle,especial,impresionant,впечатляет,nekaj,zanimljivo,någon,olağanüstü,gì đó,很酷
+350,,някога,ikada,kdy,nogensinde,je,ποτέ,ever,alguna,kunagi,koskaan,jamais,אי-פעם,ikad,még,pernah,mai,し,ooit,noensinne har,kiedykolwiek,,vreodată,когда-нибудь,kdaj,ikada,nånsin,,,过我
+351,,някога,ikada,kdy,,je,,ever,haya,iial,nähnyt,jamais,אי פעם,ikada,valaha,pernah,mai,た 事,ooit,har,poinformować,já,care l-a,когда-либо,,ikada,har,en,từng,所 未
+352,,някога,ikad,kdy,,je,ποτέ,ever,jamás,keegi,,jamais,,ikad,,pernah,mai,た,ooit,noen gang,jaką,já,vreodată,когда-либо,kadarkoli,ikad,blir,yaptığım,nhất,沒
+353,,всякога,ikad,dřív,nogensinde,je,ποτέ,ever,nunca,kunagi varem,koskaan,jamais,מתמיד,ikada,valaha,sebelumnya,mai,,ooit,noen gang,kiedykolwiek,nunca,niciodatã,никогда,kadarkoli,ikad,nånsin,,bao giờ,所 未
+354,,някога,ikada,kdy,har,jemals,ποτέ,ever,han,eales,jonka,aient,אי פעם,ikada,valaha,pernah,abbiano mai,た,ooit,noensinne har,,já,,сотворить,kdaj,икада,har,,từng,没有
+355,يره,,nije,nikdy,har,nie,ποτέ,ever,ha,kes,ole,jamais,מעולם,nije,,pernah,mai,た こと,ooit,har,nigdy,nunca,,никто,še nihče,nije,har,hiç,nhìn,见过
+356,,никога,nikad,nikdy,nogensinde,nie,ποτέ,ever,nunca,,koskaan,jamais,.לעולם,nikada,soha,pernah,mai,,nooit,noengang,,nunca,vreodata,никогда,nikoli,nikada,någonsin,asla,bao giờ,会了
+357,,,nikada,nikdy,aldrig,nie,ποτέ,ever,nunca,,koskaan,jamais,לעולם,nikad,soha,pernah,mai,た,nooit,aldri,nigdy,nunca,,никогда,nikoli,nikad,aldrig,hiçbir,bao giờ,永远
+358,قط,никога,nikada,nikdy,aldrig,niemals,,ever,nunca,kunagi,koskaan,jamais,לעולם,nikad,sosem,,mai,,nooit,aldri,nigdy,nunca,niciodată,,nikoli,nikada,aldrig,hiç,bao giờ,我永 远
+359,أؤذيك,,,nikdy,,niemals,ποτέ,ever,jamás,iial,koskaan,jamais,לעולם,nikad,soha,pernah,mai,たり,nooit,aldri,przenigdy,nunca,niciodată,никогда,nikoli,nikada,kunna,,bao giờ,我绝
+360,‫أبدا,никога,nikada,,,niemals,ποτέ,ever,jamás,eales,ikinä,jamais,.לעולם,nikada,soha,selamanya,mai,まで,ooit,aldri,nigdy,algum,ever,увидеть,nikoli,nikada,nånsin,asla,xảy,
+361,الأوقات,разговарял,isi,nezkusíš,overrasker,s,κάποιος,sometime,sorprenderá,,,demander,לפעמים,iskušaj,,aja,provaci,びっくり,,iallfall,zaskoczył,surpreendas,încercare odată,обратись,poskusiš,ponekad,fall prova,ara denemiyorsun,đôi,和你想
+362,‫أبدا,никога,,,aldrig,nie,μην,never,nunca,kunagi,äläkä,,פעם,ne,soha,jangan pernah,non,こと,nooit,aldri,nigdy,nunca,nu mai,никoгдa не,,više,aldrig,asla,đừng bao giờ,再也 不要 过
+363,,няма,nikada,nikdy,aldrig,nie,ποτέ,never,nunca,ei,tule,,,nikada nećete,sosem,,non,な,nooit,aldri,,nunca,nu mai,нe,ne,nikada nećete,aldrig,hiç,bao giờ,不
+364,لم,не,nikada,nikdy,aldrig,nie,δεν,never,nunca,pole,ei ole,jamais,מעולם לא,,sosem,pernah,mai,な かっ,nooit,aldri,nie,nunca,,не,nikoli,nije,aldrig,hiç,chưa bao,从 没 想到 过
+365,,никога,nikada,nikdy,aldrig,nie,ποτέ,never,nunca,,ikinä,jamais,לעולם לא,nikada,soha nem,takkan,mai,,nooit,aldri,nigdy,nunca,,никогда не,,nikad,aldrig,hiçbir,không bao giờ,永 远 都 不
+366,لم,никога,,,aldrig,nie,ποτέ,never,jamás,pole,ole,jamais,לא,nije,sose,pernah,,たり,nooit,aldri,nigdy nie,nunca,niciodată,,nikoli,никада,inte,,giờ,没
+367,لم,не,nikada,,aldrig,nie,ποτέ,never,,poleks,,pas,לעולם לא,nikad,sose,,mai,な,nooit,aldri,nie,nunca,nu,,ne,nikad,aldrig,asla,không bao giờ,不
+368,لن,,nikad,,aldrig,nie,ποτέ,never,nunca,mitte kordagi,ei,jamais,לא,nikada,soha,tidak pernah,mai,二,nooit,aldri,nigdy,nunca,niciodată,никогда,ne,никад,aldrig,asla,bao giờ,
+369,,никога,nikada,,aldrig,nie,ποτέ,never,jamás,kunagi,älä ikinä,pas,.לעולם,nikada,aki,pernah,mai,,nooit,aldri,nie,nunca,nu,,nikoli ne,nikada,aldrig,,không bao giờ,不
+370,لن,никога,nikada,,aldrig,nie,δε,never,no,,ei,ne jamais,לא,nikad nećeš,sosem,tak pernah,non,ず,nooit,aldri,nie,,nu,никогда не,ne,nikada,aldrig,asla,không bao giờ,
+371,,никога,nikada,nikdy,aldrig,nie,ποτέ,never,nunca,kunagi,älä koskaan,jamais,.לעולם,nikad,,jangan pernah,mai,な,nooit,aldri,nigdy nie,nunca,niciodatã,никогда не,nikoli ne,nikada,aldrig,asla,không bao giờ,永远 不要
+372,,никога,nikada,nikdy,aldrig,nie,ποτέ,never,nunca,kunagi,älä koskaan,ne jamais,.לעולם,nikada,soha nem,jangan,mai,な,nooit,aldri,nigdy nie,nunca,,никогда не,nikoli ne,nikada,aldrig,asla,bao giờ,永远 不要
+373,لم,досега,nije,nikdy,aldrig,nie,ποτέ,never,jamás,,ole ennen,jamais,.מעולם לא,,sose,tak pernah,mai,な かっ,nooit,aldri,,nunca,mai,не,nisem,није,aldrig,hiç,,不
+374,لم,никога,nikada,nikdy,aldrig,nie,,never,nunca,pole,ole,jamais,מעולם לא,nisam,soha nem,tak pernah,mai,こんな,nooit,aldri,nigdy nie,nunca,mai,никогда,nisem,nisam,aldrig,,chưa bao giờ,眖 ⊿
+375,لم,никога,nikada,nikdy,aldrig,nie,ποτέ,never,nunca,varem,ole,jamais,מעולם לא,nismo,soha nem,pernah,mai,,nooit,aldri,nigdy nie,nunca,mai,не,nisva,nismo,aldrig,hiç,chưa bao giờ,
+376,لم,досега,nikad,nikdy,aldrig,nie,ποτέ,never,nunca,kunagi,koskaan,jamais,מעולם לא,,soha nem,tak pernah,mai,かっ,nooit,aldri,,nunca,,не,nikoli nisem,nikada nisam,aldrig,hiç,chưa từng,来没
+377,,,nikada,nikdy,aldrig,niemals,ποτέ,never,¿nunca,,koskaan,jamais,,-nikada,soha,tak pernah,mai,,nooit,aldri,nigdy,nunca,niciodată,никогда,-nikoli,nikada,någonsin,hiç,chưa từng,从来
+378,‫أبدا,не,nikada,nikdy,,nie,ποτέ,never,nunca,,ei koskaan,jamais,אף פעם לא,nikada nije,sem,tak pernah,,,nooit,aldri,nigdy nie,nunca,vreodată,не,nikoli ni,nikada nije,inte,hiç,chưa bao giờ,
+379,,не,nikada,nikdy,ikke,nie,,never,nunca,kunagi,ei ole,jamais,,nikada nisam,sosem,tidak pernah,mai,,nooit,aldri,nigdy nie,nunca,mai,не,nisem,nikada nisam,aldrig,hiç,chưa từng,
+380,‫أبدا,никога,nikada,,aldrig,niemals,ποτέ,never,¡nunca,iial,ikinä,,מעולם לא,-nikada,soha,takkan pernah,,絶対,,aldri,nigdy,nunca,niciodată,,–nikoli,-nikad,aldrig,asla,không bao giờ,不
+381,لم,никога,nikada,,aldrig,,δεν,never,nunca,,ei pitänyt,jamais,לא,nikad nije,sose,tak pernah,,は,niet,aldri,nigdy nie,nunca,,никогда не,ni,никада,aldrig,hiçbir,chưa bao giờ,不
+382,لم,,nic,nikdy,aldrig,nie,ποτέ,never,nunca,,ikinä,jamais,,nikad,soha nem,belum pernah,non,な,nooit,aldri,,nunca,nu,не,nisva,nismo,aldrig,hiç,chưa bao giờ,
+383,لم,никога,nikad,,aldrig,nie,δεν,never,nunca,kunagi,ei,jamais,,nikad,sose,pernah,mai,,,aldri,,nunca,niciodată,не,nikoli ni,никад,aldrig,hiç,không bao giờ,不
+384,‫أبدا,,nikada,nikdy,aldrig,nie,ποτέ,never,nunca,,koskaan ole,jamais,מעולם לא,nikad,soha nem,tak pernah,mai,事,nooit,aldri,nigdy nie,nunca,mai,не,nismo,никад,aldrig,hiç,chưa từng,未
+385,لم,не,nikada,nikdy,ikke,,ποτέ,never,nunca,kunagi,ei koskaan,ne,מעולם לא,,nem,belum,mai,な,niet,ikke,nie,jamais,,не,nikoli ni,nikada,aldrig,hiçbir,chưa bao giờ,
+386,‫أبدا,не,nikada,,,,δε,never,nunca,ei,en,jamais,אף פעם לא,nikada,nem,tak pernah,non,な,nooit,aldri,nigdy,nunca,,не,ne,никада,aldrig,hiç,không bao giờ,從來 不
+387,قط,не,nikad,,aldrig,nie,δε,never,nunca,pole eales,ole ikinä,n'ai pas,לא,nikad nisam,,tak pernah,,こと,nooit,aldri,ogóle nie,nunca,nu,не,,nikada nisam,aldrig,hiç,chưa,没
+388,قط,не,nisam,životě,aldrig,nie,,never,nunca,,ikinä,jamais,לא,nisam,sose,pernah,mai,,nooit,aldri,,nunca,mai,не,nisem,nisam,aldrig,görmedim,chưa từng,
+389,‫أبدا,никога,nikad,nikdy,,nie,ποτέ,never,nunca,ei,älä ikinä,ne,,nikad,sose,jangan pernah,mai,いけ な,nooit,aldri,nie,nunca,nu-i,никогда не,nikoli ne,nikada,aldrig,,đừng bao giờ,永远 不要
+390,,иначе,nikad,nikdy,aldrig,nie,δε,never,nunca,iialgi,olisi,ne,‫לעולם לא,nikada,nem,takkan,,な かっ,nooit,ikke,,nunca,nu,никогда,ne,nikada,aldrig,asla,không bao,永 远
+391,‫أبدا,не,nikad,nikdy,aldrig,nie,ποτέ,never,nunca,kunagi ei,etten,,,ne,nem,tak pernah,,,nooit,aldri,nigdy nie,nunca,nu,никогда не,ne,nikada,aldrig,sormadım,không bao giờ,从 不
+392,‫أبدا,никога,nikad,nikdy,aldrig,niemals,ποτέ,never,¡jamás,ei iialgi,en ikinä,jamais,‫לעולם לא,nikad,soha,tidak,mai,断,nooit,aldri,nigdy,nunca,niciodată,никогда,nikoli,nikada,aldrig,asla,không bao giờ,永 不
+393,‫أبدا,никога,nikada,nikdy,aldrig,nie,ποτέ,never,nunca,,ei ikinä,jamais,לעולם לא,nikada,sosem,tak pernah,,・,nooit,aldri,,nunca,nu,никогда не,nikoli ne,nikada,aldrig,asla,không bao giờ,从
+394,لم,никога,nikad,,aldrig,nie,δεν,never,nunca,ei,eivät ikinä,jamais,לא,,nem,pernah,,な,nooit,aldri,nigdy nie,nunca,n-au,,niso,nikad,aldrig,hiç,chưa,未
+395,‫أبدا,никога,nikada,,aldrig,nie,μην,never,jamás,kunagi,älä,ne jamais,.לעולם,nikad,soha,jangan pernah,mai,決して,nooit,aldri,nigdy nie,nunca,,не,nikoli ne,nikad,aldrig,asla,không bao giờ,不要
+396,لم,никога,nikada,nikdy,aldrig,nie,ποτέ,never,nunca,,en,n'ai jamais,.מעולם לא,nikad nisam,nem,tak pernah,,,nooit,aldri,,nunca,,не,nikoli nisem,nikad nisam,aldrig,hiç,không bao giờ,我没
+397,,никога,nikada,nikdy,aldrig,nie,ποτέ,never,nunca,kunagi,ikinä,jamais,לא,nikada,soha nem,tak,,,nooit,aldri,nigdy nie,nunca,,никогда не,nikoli ne,nikada nećete,aldrig,asla,không bao giờ,
+398,لم,никога,nikad,nikdy,aldrig,nie,ποτέ,never,nunca,pole kunagi,,,.מעולם לא,nikad,sosem,tak,,,nooit,aldri,nigdy,nunca,niciodată,никогда,nikoli nisem,nikad nisam,aldrig,asla,chưa,從來 不
+399,‫أبدا,никога,nikada,nikdy,aldrig,nie,,never,nunca,pole kunagi,ole ikinä,jamais,מעולם לא,nikada,soha nem,tidak,mai,な,nooit,ikke,nigdy,nunca,niciodată,никогда не,nikoli,никада,aldrig,hiç,chưa bao giờ,
+400,لم,никога,nikada,nikdy,ikke,nie,ποτέ,never,nunca,ei,ei,jamais,לא,nikada nije,sosem,tak pernah,,な かっ,nooit,ikke,nie,nunca,n-a,никогда не,ni,никада није,aldrig,hiç,không,沒
+401,,никога,nikada,neměla,,niemals,δεν,never,no,ei,eivät,,.לעולם לא,nikada,,tak pernah,,は,niet,ikke,nie,nunca,nu,не,ne,никада,aldrig,asla,không bao giờ,永
+402,لم,не,nikada,nikdy,aldrig,niemals,ποτέ,never,nunca,,ei,,לא,nikada nije,soha nem,tak pernah,,は,nooit,aldri,nigdy nie,nunca,nu,не,ni,никада није,aldrig,asla,không bao giờ,
+403,لم,нямаше,nikada,nikdy,aldrig,nie,ποτέ,never,nunca,pole,olisi,,אף פעם לא,nikada,nem,tak pernah,,な,nooit,aldri,nie,nunca,nu,не,nisem,никада,aldrig,hiç,không bao giờ,我永 远 不
+404,لم,нямаше,nikada,nikdy,aldrig,nie,ποτέ,never,nunca,ei,olisi,,אף פעם לא,nikada,nem,takkan pernah,mai,,nooit,,nie,nunca,n-aş,не,nisem,никада,aldrig,hiç,không bao giờ,
+405,,никога,nikada,nikdy,aldrig,nie,,never,nunca,ei,ettei,jamais,,nikad nije,sohasem,tak pernah,,な かっ,,aldri,nigdy nie,nunca,nu,никогда не,nikoli ni,никада није,aldrig,hiç,chưa từng,未
+406,لن,няма,nikad,nikdy,aldrig,nie,ποτέ,never,nunca,ei,ei tule,,שלעולם לא,nikad,,tak pernah,,な,nooit,aldri,nigdy nie,nunca,nu,не,nikoli ne,никада нећеш,aldrig,,không bao giờ,永远 不
+407,لم,не,,vůbec,aldrig,nie,ποτέ,never,nunca,pole kunagi,koskaan,,מעולם לא,,se,tak pernah,mai,な かっ,nooit,aldri,nigdy nie,nunca,,не,nikoli nisem,nisam,aldrig,,chưa bao giờ,从
+408,‫أبدا,никога,videti,nikdy,aldrig,,δεν,never,,ei,ei,,לעולם לא,neće,sosem,tak,,な,niet,aldri,nigdy nie,nunca,,не,ne,videti,aldrig,görmez,không bao giờ,不
+409,كهذا,не,,,,nie,ποτέ,never,nunca,ei,en,jamais,בחיים לא,nisam,,tak pernah,non,,nooit,aldri,nie,nunca,niciodată n-am,не,nikoli,nikad,aldrig,hiç,chưa từng,没想 过
+410,,не,nikad,,aldrig,nie,ποτέ,never,nunca,pole,ole,jamais,.מעולם לא,nikad,sosem,pernah,mai,,nooit,aldri,dotąd,nunca,mai,не,nisem,nikada nisam,aldrig,hiç,chưa từng,从没
+411,,не,nikad,,aldrig,nie,ποτέ,never,,kunagi,koskaan,jamais,מעולם לא,nikad nisi,sosem,pernah,mai,こと な,nooit,aldri,,nunca,niciodată,не,nikoli,nikada,aldrig,hiç,chưa,过
+412,لم,никога,nikad,,,nie,ποτέ,never,nunca,kunagi,koskaan,,.מעולם לא,nikad nisam,sosem,pernah,mai,,nooit,aldri,nigdy nie,nunca,niciodată,не,nisem,nikad nisam,aldrig,hiç,chưa,过
+413,لم,никога,,nepřemýšlel,ikke,nie,ποτέ,never,nunca,pole,ole,pas,.מעולם לא,nisam,nem,tidak pernah,mai,な,nooit,ikke,,nunca,nu,не,nikoli nisem,nikad nisam,aldrig,hiç,chưa bao giờ,我从 来没
+414,كهذا,никога,nikad,,aldrig,nie,,never,nunca,kunagi,ikinä,jamais,.מעולם לא,nikad nisam,sosem,pernah,mai,こと な,nooit,aldri,,nunca,mai,не,nikoli nisem,nikad nisam,aldrig,görmemiştim,chưa,从
+415,لم,никога,nikada,nikdy,aldrig,nie,δεν,never,nunca,,ikinä,jamais,מעולם לא,ne,sose,tak pernah,,ず,haatte,aldri,nigdy nie,nunca,niciodată nu,никогда не,nikoli,nikada,aldrig,hiç,không bao giờ,一向 都 不
+416,,не,nikada,,ikke,nie,δε,never,no,,eivät,ne,לא,ne,nem,pernah,,事,niet,aldri,nigdy nie,nunca,niciodata nu,,nikoli ni,не,aldrig,asla,không bao giờ,不
+417,لم,не,nisu,nikdy,aldrig,nicht,δε,never,¿nunca,ei,,ne,מעולם לא,nikad,nem,tak pernah,non,な かっ,nooit,,nie,,nu,не,niso,nisu,inte,hiçbir,không,
+418,لم,никога,-nikada,nikdy,aldrig,nie,ποτέ,never,nunca,kunagi,,jamais,,nikad,,pernah,mai,こと,nooit,aldri,,nunca,mai,никогда,nisem,nikada nisam,aldrig,hiçbir,chưa từng,
+419,‫أبدا,никога,nikada,nikdy,aldrig,nie,ποτέ,never,jamás,kunagi,älä ikinä,,.לעולם,nikada,soha nem,jangan,,,nooit,aldri,nigdy nie,nunca,nu,никогда не,nikoli ne,nikada,aldrig,asla,không bao giờ,
+420,‫أبدا,никога,nikada,nikdy,aldrig,nie,ποτέ,never,jamás,ei iial,ikinä,jamais,לעולם,nikad,soha,takkan pernah,mai,,nooit,aldri,obiecuję,nunca,niciodată,hикoгдa,nikoli,nikad,aldrig,asla,không bao giờ,再也 不
+421,لم,не,nikad,nikdy,aldrig,nie,ποτέ,never,no,,koskaan,n'ai jamais,לא,nisam,nem,tidak,,かっ,nooit,aldri,nie,nunca,nu,не,nisem,nikad nisam,aldrig,hiç,không,没
+422,لم,не,nisam,nikdy,aldrig,nie,δεν,never,nunca,,en ole,jamais,מעולם לא,nikad,sosem,pernah,,こと,nooit,aldri,,nunca,n-am,,,nisam,inte,hiç,chưa từng,过
+423,‫أبدا,не,nic,nikdy,aldrig,nie,,never,nunca,pole,koskaan,n'ai jamais,מעולם לא,nikad,sohasem,pernah,mai,,nooit,aldri,nie,nunca,niciodată,никогда не,nikoli,ni,aldrig,hiç,chưa từng,我没
+424,,никога,nikad,nikdy,aldrig,niemals,ποτέ,never,jamás,pole kunagi,ei tule,,.לעולם לא,nikad nećeš,,takkan pernah,,,nooit,aldri,nie,nunca,niciodată nu,не,nikoli ne,nikad,aldrig,asla,không bao,ぃ
+425,,никога,nikad,,aldrig,nie,ποτέ,never,nunca,kunagi,koskaan,jamais,.אף פעם לא,nikad,nem,tak pernah,,な,nooit,aldri,nigdy,nunca,niciodată,не,nikoli,nikad,aldrig,,không bao giờ,瞷筁
+426,لم,никога,nikada,,,nie,,never,nunca,pole,ole,jamais,לא,nikada,soha,pernah,mai,な,,aldri,nie,nunca,mai,не,ni,nikada,aldrig,,từng,从没
+427,لم,не,nikada,,aldrig,nie,,never,no,ei,koskaan,n'ai pas,מעולם לא,nikad,nem,tak pernah,,な,niet,ikke,nie,nunca,nu,никогда не,nisem,nikada nisam,inte,,chưa từng,
+428,لم,не,nikad,nikdy,aldrig,nie,ποτέ,never,nunca,pole,,jamais,מעולם,nikad,nem,pernah,mai,事,nooit,ikke,nie,nunca,n-au,не,nisem,nikada nisu,aldrig,,chưa bao giờ,我从 没
+429,لم,,nikad,vůbec,aldrig,,ποτέ,never,nunca,iial,eivät,jamais,לעולם לא,ni,sem,tidak,non,な,nooit,ikke,nie,nunca,niciodatã nu,не,nikoli,nikad,aldrig,asla,không bao giờ,不
+430,‫أبدا,никога,nikada,nikdy,aldrig,niemals,ποτέ,never,jamás,eales ei,ei koskaan,ne,לעולם לא,nikada,sosem,pernah,,は,nooit,aldri,,nunca,,не,nikoli ne,nikada,aldrig,asla,bao giờ,永远
+431,‫أبدا,не,nikada,nikdy,aldrig,nie,ποτέ,never,nunca,ei,en,pas,אף פעם לא,-nikada nisam,sosem,tak pernah,,な,nooit,aldri,,nunca,n-am,,nisem,никада нисам,aldrig,hiç,chưa bao giờ,我没
+432,لن,никога,nikada,,aldrig,nie,ποτέ,never,no,,en,pas,בחיים לא,nikada,nem,tidak pernah,intenzione,な,niet,aldri,nigdy,nunca,,не,,nikada,aldrig,niyetim,không bao giờ,坚决 不
+433,,никога,-nikada,,-aldrig,nie,ποτέ,never,nunca,ei iial,koskaan,jamais,מעולם לא,-nikada,sohasem,tidak pernah,mai,な,nooit,aldri,nigdy,nunca,niciodată,никогда,-nikoli,-nikad,aldrig,,không bao giờ,从 不
+434,‫أبدا,никога,nikad,nikdy,aldrig,nie,δε,never,nunca,,,,אף פעם לא,nikad nije,sosem,tidak pernah,,な,nooit,aldri,nigdy nie,nunca,,всегда,nikoli ni,nije nikada ni,aldrig,hiç,chưa,从 不
+435,لم,не,nikada,nikdy,aldrig,,δεν,never,nunca,ei,uskonut,,שלעולם לא,nikada,nem,tak,,,,aldri,nie,nunca,nu,не,nisem,nikada,aldrig,hiç,không bao giờ,想到
+436,لم,не,nikad,nikdy,havde,nie,δεν,never,nunca,poleks kunagi,uskonut,pas,מעולם לא,nikad,sose,tak pernah,,まさか,nooit,trodde aldri,nie,nunca,nu,не,nisem,nikad nisam,inte,hiç,chưa bao giờ,从
+437,,,ikada,někdy,aldrig,nie,ποτέ,ever,,kunagi,ole,,אי פעם,nikada,még,pernah,mai,た こと,ooit,aldri,kiedyś,nunca,te-ai,думал,nikoli,ikada,aldrig,hiçbir,bao giờ,
+438,الرحب,сторил,anytime,zač,lidt,jederzeit,πάντα,anytime,nada,kell,tahansa,service,.מתי,uvijek,szívesen,,rifarei,どんな,altijd,alltid,usług,ordens,oricând,пустяки,drugič,uvek,närsomhelst,rica,lòng,不客
+439,سأراهم,,ikada,,nogensinde,jemals,ποτέ,ever,alguno,kunagi,,,אי פעם,ikada,valaha,bisa,mai,二,ooit,noen gang,kiedyś,vê-las-ei,mai,сужденo,kdaj,ikada,återse,görebilecek,có bao giờ,再
+440,,никога,ikada,někdy,nogensinde,mal,ποτέ,ever,¿nunca,kunagi,koskaan,jamais,,ikada,valaha,pernah,mai,,ooit,noen gang,ogóle,nunca,vreodatã,вообще,kdaj,ikada,nånsin,hiç,bao giờ,过
+441,ساراهُ؟,някога,ikada,někdy,nogensinde,jemals,μπορέσω,ever,¿podré,kunagi,koskaan,pourrai,אי פעם,ikada,valamikor,boleh,,も 入,ooit,noen gang,kiedyś,nunca,vreodata,увидеть,sploh kdaj,ikada,,başlayabilir,có,以看
+442,فكرت,питаш,sjecas,někdy,nogensinde,manchmal,σκεφτεί,ever,alguno,,mietitkö ikinä,t'arrive,אי פעם,,-szoktál arra,pernah,mai,た,eens,iblant,kiedykolwiek,alguma vez,vreodată,какие,kdaj,,nånsin,,từng,还记
+443,أطلقتَ,някога,,někdy,nogensinde,je,ποτέ,ever,alguno,,,déjà,אי פעם,ikad,,pernah,mai,た こと,ooit,noengang,kiedyś,alguma vez,vreodată,когда-нибудь,kdaj,ikad,,hiç,có từng,最好
+444,مكان,ходя,nikuda,neodejdu,steder,nirgendwo,πουθενά,anywhere,ningún,kuhugi,mihinkään,l'intention,לשום מקום,nikuda,sehova,mana-mana,nessuna parte,たり,nergens heen,sted,,lado nenhum,nicăieri,,nikamor,никуда,ingenstans,yere gitmiyorum,đâu,會走
+445,مكانٍ,където,gdje,nikde,sted,überall,πουθενά,anywhere,donde,kuskil,mikään,,.בשום מקום,bilo gdje,sehol,manapun,nessuna parte,どこ,,noenplasssomhelst,potrafi,nenhum lado,nicăieri,нигде,nikjer,nigde,någonstans,yerde,đời,人能做
+446,مكان,ходи,nigdje,,steder,nirgendwo,πουθενά,anywhere,¡r,kuhugi,minnekään,nulle part,בכל מקום,nikud,sehová,kemanapun,nessuna parte,行,nergens heen,steder,nigdzie,lado nenhum,nicăieri,никуда,–nikamor,никуд,ingenstans,yere,đâu hết,他哪 儿也
+447,يبارح,ходи,nigde,neuteče,langt,weit,πουθενά,anywhere,,kusagile,minnekään,n'ira nulle part,לשום מקום,nikamo,sehova,mana,nessuna parte,,nergens heen,steder,nigdzie,lado nenhum,fugă,,nikamor,,ingenstans,yere gittiği,đâu đâu,
+448,مكان,избяга,uteć,neuteče,steder,davon,πουθενά,anywhere,ir,s,minnekään,débiner,לשום מקום,,sehová,mana-mana,nessuna parte,逃げ,loopt,steder,zając,lado nenhum,nicăieri,убежит,ušla,,väntar,yere gittiği,đâu,会跑
+449,مكان,никъде,-nikuda,nepůjdu,steder,nirgendwo,πουθενά,anywhere,ningún,kuhugi,minnekään,nulle part,לשום מקום,nikamo,sehova,kemanapun,nessuna parte,居,nergens heen,steder,,lado nenhum,nicăieri,никуда,nikamor,,ingenstans,yere gitmiyorum,đâu hết,我哪 儿也 不去
+450,مكان,мърдам,nigdje,nejdu,vegne,nirgendwohin,πουθενά,nowhere,,kuhugi,minnekään,nulle part,,nigdje,megyek,kemana-mana,nessuna,何処,nergens,,,saio,nicãieri,никуда,nikamor,nigdje,stannar,gitmiyorum,đâu,儿都
+451,اللا,никъде,nigdje,kam,steder,nirgendwohin,πoυθεvά,nowhere,ninguna,kuhugi,minnekään,nulle part,לשום מקום,nikamo,sehova,mana-mana,nessuna,どこ へ,nergens,ingen steder,nigdzie,,nicăieri,приехали,nikamor,nikamo,ingenstans,,,
+452,للهرب,избягаш,kuda,kam,steder,sitzt,πουθενά,nowhere,adonde,kuhugi,pääse pakoon,d'issue,לברוח לשום מקום,kamo,hova,lolos,scampo,,nergens,ingen steder,dokąd,encurralado,unde,некуда,nikamor,куда,ingenstans,kaçacak yerin,chỗ trốn đâu,可逃
+453,مكان,навсякъде,,kdekoliv,helst,sonst,οπουδήποτε,anywhere,cualquier parte,iganes,lie,n'importe où,מקום,bilo gdje,bárhol lehetnek,dimana,trovarsi ovunque,,overal,helst,wszędzie,em qualquer lugar,oriunde,угодно,kjerkoli,gde,varsomhelst,cikabilirmis,,无处
+454,,никъде,nigdje,nepůjdou,siddende,nirgendwo,πουθενά,anywhere,irán,pääse,lähde,réponses,שנלך,nikamo,sehová,,muovono,,mogen,sted,pójdziemy,,mişcă,,nikamor,nigde,någonstans,hiçbir yere gitmemelerini,đâu,在我
+455,مكان,някъде,negdje,,sted,irgendwo,κάπου,somewhere,algún lugar,kusagil,,etquelque part,והיכן,negdje,valahol,suatu tempat,qualche,どこ,ergens,sted,gdzieś,algures,undeva,где-нибудь,nekje,негде,nånstans,,đâu đó,獵
+456,مكانٍ,взел,,odněkud,sted,,κάπου,somewhere,algún lado,sinul,jokin,avoir,,,valahonnan,suatu tempat,qualche,恐らく,ergens,sted,wziął,algures,undeva,откуда-то,nekje,,nånstans,almalıydı,đâu đó,給沃
+457,مكان,,negdje,,sted,irgendwo,,somewhere,algún lugar,künkal,yllään,part,גבעה,brežuljku,nyugodnia,suatu tempat,cima,どこ,liggen,sted,gdzieś,algures,,каком-нибудь,hribu,брежуљку,nånstans,yerde,nơi,洒
+458,لمكان,някъде,negde,někam,steder,irgendwohin,κάπου,somewhere,,kuskile,jokin,part,לאיזה מקום,nekamo,valahová,suatu tempat,qualche parte,,ergens,sted,dokądś,algum sítio,undeva,куда-то отправляюсь,odplula,negde,nånstans,yere,đâu đó,
+459,فتحةً,,negdje,někde,,irgendwo,κάπου,somewhere,algún lugar,kusagil,jossakin,avoir,במקום,negdje,valahol,suatu tempat,qualche,どこ,ergens,sted,gdzieś,algures,undeva,где-то,nekje,негде,någonstans,yerde,chỗ,某 处
+460,بمكانٍ,някъде,negde,někde,sted,irgendwo,κάπου,somewhere,algún lado,kusagil,jossakin,endroit,איפשהו,negdje,valahol,suatu tempat,reparto,どこ,ergens,sted,gdzieś,algures,undeva,где-то,nekje,negde,nånstans,yerde,đâu đó,地方
+461,,някъде,negdje,někde,sted,irgendwo,κάπου,somewhere,alguna,kuskil,jossain,part,.במקום כלשהו,negdje,valahol,suatu tempat,qualche,,ergens,sted,gdzieś,algures,undeva,где-то,nekje,negde,nånstans,yerlerde,nơi,某个 地方
