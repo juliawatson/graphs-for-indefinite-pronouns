@@ -1,0 +1,14 @@
+---
+title 'ShYnY'
+output: html_document
+runtime: shiny
+---
+
+```{r, echo = FALSE}
+cars = data.frame(c(1,2,3,4),c(5,6,7,8))
+numericInput("rows", "How many cars?", 5)
+
+renderTable({
+  head(cars, input$rows)
+})
+```
