@@ -11,15 +11,7 @@ Code and data for the CogSci 2017 conference paper on indefinite pronouns
 
 
 ```
-## Warning: package 'ggplot2' was built under R version 3.2.4
-```
-
-```
-## Warning: package 'shiny' was built under R version 3.2.5
-```
-
-```
-## Error in loadNamespace(name): there is no package called 'webshot'
+## Error in appshot.shiny.appobj(structure(list(httpHandler = function (req) : appshot of Shiny app objects is not yet supported.
 ```
 
 Breakdown of scripts and how to use them by section of paper:
